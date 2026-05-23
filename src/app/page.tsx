@@ -222,9 +222,7 @@ export default function HomePage() {
           <meta itemProp="uploadDate" content="2026-05-23" />
           <meta itemProp="contentUrl" content="https://www.kashmiressence.com/videos/kashmir-hero.mp4" />
         </div>
-        <video autoPlay muted loop playsInline preload="auto" className="absolute inset-0 w-full h-full object-cover opacity-100" poster="/images/hero-poster.jpg">
-          <source src="/videos/kashmir-hero.mp4" type="video/mp4" />
-        </video>
+        <img src="/images/hero-poster.jpg" className="absolute inset-0 w-full h-full object-cover opacity-100" alt="Authentic Kashmiri Saffron and Shilajit" />
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/30 to-maroon-950/90" />
         <div className="absolute top-1/3 right-1/4 w-96 h-96 bg-gold-500/10 rounded-full blur-[120px] pointer-events-none" />
 

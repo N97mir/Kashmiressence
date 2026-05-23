@@ -20,14 +20,6 @@ export default function DiwaliGiftKashmir() {
       <section className="max-w-5xl mx-auto px-6 py-14">
         <h2 className="text-2xl font-black text-maroon-950 mb-8 text-center">Diwali Gift Collections</h2>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
-          {[["✨","Saffron Gift Tin","The statement gift — 2g Mongra saffron in a premium tin. The luxury Diwali gift that anyone will remember.","₹1,299","/products/kashmiri-saffron-gift-tin"],["🎁","Kashmir Dry Fruit Hamper","Mamra almonds + Kashmiri walnuts + Kashmir honey — the complete festive hamper.","₹1,799","/products/kashmiri-dry-fruit-gift-box"],["🪨","Mamra Almond Box","250g premium Mamra almonds in Diwali gift packaging. The gold standard Diwali dry fruit gift.","₹699","/products/mamra-almonds-premium"],["🍯","Raw Kashmir Honey","500g raw alpine honey in glass jar — a pure, wholesome Diwali gift.","₹849","/products/kashmiri-wildflower-honey"],["🫖","Kahwa Gift Set","Premium Kashmiri Kahwa blend — the warmth of Kashmir in a cup. Perfect gifting.","₹549","/products/kashmiri-kahwa-blend"],["🏔️","Himalayan Shilajit","A bold wellness gift — pure Himalayan Shilajit resin for health-conscious recipients.","₹1,299","/products/himalayan-shilajit-resin"]].map(([e,n,d,p,l])=>(
-            <div key={String(n)} className="bg-white border border-ivory-200 rounded-3xl p-6 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all flex flex-col">
-              <span className="text-5xl mb-4 block text-center">{String(e)}</span>
-              <h3 className="font-extrabold text-maroon-950 text-base mb-2 text-center">{String(n)}</h3>
-              <p className="text-ink-500 text-xs leading-relaxed mb-4 text-center flex-1">{String(d)}</p>
-              <p className="text-xl font-black text-maroon-950 text-center mb-4">{String(p)}</p>
-              <div className="flex gap-2">
-                <a href={WA} target="_blank" rel="noreferrer" className="flex-1 bg-maroon-800 hover:bg-maroon-700 text-white font-black py-2.5 rounded-xl text-center text-xs transition-all">Order Gift</a>
                 <Link href={String(l)} className="flex-1 bg-ivory-100 border border-ivory-200 text-maroon-800 font-bold py-2.5 rounded-xl text-center text-xs transition-all">Details</Link>
               </div>
             </div>

@@ -134,7 +134,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
                   <div className="relative h-64 w-full rounded-2xl overflow-hidden mb-6 bg-ivory-100">
                     <Image src={product.img} alt={product.name} fill className="object-cover" />
                     <div className="absolute top-3 left-3 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-xs font-black text-maroon-900">
-                      GI-Tagged / Lab Tested
+                      {product.badge || "Premium Quality"}
                     </div>
                   </div>
                   <h3 className="text-2xl font-black text-maroon-950 mb-2">{product.name}</h3>

@@ -29,14 +29,6 @@ export default function EidGiftKashmir() {
           {[
             { emoji: "✨", name: "Kashmiri Saffron Gift Tin", desc: "2g Mongra saffron in a premium gift tin. The most gifted Eid gift — luxurious, meaningful, and authentically Kashmiri.", price: "₹1,299", link: "/products/kashmiri-saffron-gift-tin" },
             { emoji: "🪨", name: "Mamra Almond Box", desc: "250g heritage Mamra almonds in gift-ready packaging. Beloved by every generation — the traditional Eid dry fruit gift.", price: "₹699", link: "/products/mamra-almonds-premium" },
-            { emoji: "🎁", name: "Kashmir Dry Fruit Gift Box", desc: "Curated selection of Mamra almonds, Kashmiri walnuts, and Kashmir honey. Perfect for families.", price: "₹1,799", link: "/products/kashmiri-dry-fruit-gift-box" },
-            { emoji: "🍯", name: "Kashmir Raw Honey", desc: "500g raw alpine Kashmir honey in a glass jar. A thoughtful and healthy Eid gift.", price: "₹849", link: "/products/kashmiri-wildflower-honey" },
-            { emoji: "🏔️", name: "Himalayan Shilajit Resin", desc: "20g pure Shilajit resin — a unique and deeply meaningful wellness gift for health-conscious recipients.", price: "₹1,299", link: "/products/himalayan-shilajit-resin" },
-            { emoji: "🫖", name: "Kashmiri Kahwa Blend", desc: "100g premium Kahwa spice blend. The taste of Kashmir in a cup — perfect for gifting across India and the world.", price: "₹549", link: "/products/kashmiri-kahwa-blend" },
-          ].map((p) => (
-            <div key={p.name} className="bg-white border border-ivory-200 rounded-3xl p-6 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all flex flex-col">
-              <span className="text-5xl mb-4 block text-center">{p.emoji}</span>
-              <h3 className="font-extrabold text-maroon-950 text-base mb-2 text-center">{p.name}</h3>
               <p className="text-ink-500 text-xs leading-relaxed mb-4 text-center flex-1">{p.desc}</p>
               <p className="text-xl font-black text-maroon-950 text-center mb-4">{p.price}</p>
               <div className="flex gap-2">

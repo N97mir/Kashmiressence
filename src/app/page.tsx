@@ -222,7 +222,7 @@ export default function HomePage() {
           <meta itemProp="uploadDate" content="2026-05-23" />
           <meta itemProp="contentUrl" content="https://www.kashmiressence.com/videos/kashmir-hero.mp4" />
         </div>
-        <video autoPlay muted loop playsInline preload="metadata" className="absolute inset-0 w-full h-full object-cover opacity-100" poster="/images/hero-poster.jpg">
+        <video autoPlay muted loop playsInline preload="metadata" className="absolute inset-0 w-full h-full object-cover opacity-100 pointer-events-none" poster="/images/hero-poster.jpg">
           <source src="/videos/kashmir-hero-opt.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/30 to-maroon-950/90" />

@@ -88,7 +88,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div className="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-5 gap-10 mb-16">
             <div className="col-span-2 md:col-span-1">
               <div className="flex items-center gap-2.5 mb-4">
-                <Image src="/images/logo.png" alt="Kashmir Essence" width={28} height={28} className="object-contain filter invert brightness-200" />
+                <Image src="/images/logo.png" alt="Kashmir Essence" width={28} height={28} className="object-contain" />
                 <div className="leading-tight">
                   <span className="block text-base font-black text-gold-400">Kashmir</span>
                   <span className="block text-[10px] font-bold text-ivory-400 tracking-widest uppercase -mt-0.5">Essence</span>
@@ -159,6 +159,45 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <a href="/products/kashmiri-kahwa-blend" className="hover:text-gold-400 transition-colors">Kashmiri Kahwa Blend</a>
                 <a href="/products/kashmiri-wildflower-honey" className="hover:text-gold-400 transition-colors">Kashmir Raw Honey</a>
                 <a href="/products/mamra-almonds-premium" className="hover:text-gold-400 transition-colors">Mamra Almonds 250g</a>
+              </div>
+            </div>
+
+            {/* Health & Benefits */}
+            <div className="mb-6">
+              <p className="text-[9px] font-black uppercase tracking-widest text-gold-400/80 mb-3">Health & Nutrition Guides</p>
+              <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-x-4 gap-y-2 text-[10px] text-ivory-300">
+                <a href="/benefits/kashmiri-saffron-for-pregnancy" className="hover:text-gold-400 transition-colors">Saffron for Pregnancy</a>
+                <a href="/benefits/pure-shilajit-for-stamina-and-energy" className="hover:text-gold-400 transition-colors">Shilajit for Stamina</a>
+                <a href="/benefits/mamra-almonds-for-brain-development-in-kids" className="hover:text-gold-400 transition-colors">Almonds for Kids Brain</a>
+                <a href="/benefits/sulai-honey-for-immunity" className="hover:text-gold-400 transition-colors">Sulai Honey for Immunity</a>
+                <a href="/benefits/kashmiri-saffron-for-skin-glow" className="hover:text-gold-400 transition-colors">Saffron for Skin Glow</a>
+                <a href="/benefits/pure-shilajit-for-testosterone" className="hover:text-gold-400 transition-colors">Shilajit for Men</a>
+                <a href="/benefits/mamra-almonds-for-heart-health" className="hover:text-gold-400 transition-colors">Almonds for Heart Health</a>
+                <a href="/benefits/kashmiri-walnuts-for-brain-health" className="hover:text-gold-400 transition-colors">Walnuts for Memory</a>
+                <a href="/benefits/kashmiri-walnuts-for-cholesterol" className="hover:text-gold-400 transition-colors">Walnuts for Cholesterol</a>
+                <a href="/benefits/kashmiri-kahwa-for-weight-loss" className="hover:text-gold-400 transition-colors">Kahwa for Weight Loss</a>
+              </div>
+            </div>
+
+            {/* Product Comparisons */}
+            <div className="mb-6">
+              <p className="text-[9px] font-black uppercase tracking-widest text-gold-400/80 mb-3">Product Comparisons</p>
+              <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-x-4 gap-y-2 text-[10px] text-ivory-300">
+                <a href="/compare/mamra-almonds-vs-california-almonds" className="hover:text-gold-400 transition-colors">Mamra vs California Almonds</a>
+                <a href="/compare/mongra-saffron-vs-iranian-saffron" className="hover:text-gold-400 transition-colors">Mongra vs Iranian Saffron</a>
+                <a href="/compare/shilajit-resin-vs-capsules-powder" className="hover:text-gold-400 transition-colors">Shilajit Resin vs Capsules</a>
+              </div>
+            </div>
+
+            {/* Recipes & Usage */}
+            <div className="mb-6">
+              <p className="text-[9px] font-black uppercase tracking-widest text-gold-400/80 mb-3">Recipes & Usage</p>
+              <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-x-4 gap-y-2 text-[10px] text-ivory-300">
+                <a href="/how-to-use/authentic-kashmiri-kahwa-recipe" className="hover:text-gold-400 transition-colors">Kashmiri Kahwa Recipe</a>
+                <a href="/how-to-use/how-to-consume-pure-shilajit-resin-safely" className="hover:text-gold-400 transition-colors">How to use Shilajit</a>
+                <a href="/how-to-use/how-to-use-saffron-milk-for-pregnancy" className="hover:text-gold-400 transition-colors">Saffron Milk for Pregnancy</a>
+                <a href="/how-to-use/overnight-soaked-mamra-almonds-method" className="hover:text-gold-400 transition-colors">Soaked Mamra Almonds</a>
+                <a href="/how-to-use/how-to-make-saffron-water-for-glowing-skin" className="hover:text-gold-400 transition-colors">Saffron Water for Skin</a>
               </div>
             </div>
 

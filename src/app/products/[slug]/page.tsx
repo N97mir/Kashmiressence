@@ -164,7 +164,7 @@ export default async function ProductPage({ params }: Props) {
               <span className="text-xs font-black text-maroon-900 uppercase tracking-wider block mb-3">
                 Select Pack Size / Weight
               </span>
-              <div className="grid grid-cols-3 sm:grid-cols-4 gap-2">
+              <div className="grid grid-cols-2 gap-2 sm:gap-3">
                 {p.variants.map((v) => {
                   const isCurrent = v.slug === p.slug;
                   const discountPct = Math.round(((v.mrp - v.price) / v.mrp) * 100);
@@ -172,20 +172,17 @@ export default async function ProductPage({ params }: Props) {
                     <Link
                       key={v.slug}
                       href={`/products/${v.slug}`}
-                      className={`border-2 rounded-xl p-2.5 text-center transition-all ${
+                      className={`border-2 rounded-xl p-2.5 sm:p-3 flex items-center justify-between gap-1 transition-all ${
                         isCurrent
                           ? "border-maroon-800 bg-maroon-50/50 shadow-xs"
                           : "border-ivory-200 bg-white hover:border-maroon-300 hover:shadow-xs"
                       }`}
                     >
-                      <p className={`font-black text-xs sm:text-sm ${isCurrent ? "text-maroon-900" : "text-ink-800"}`}>
-                        {v.size}
-                      </p>
-                      <p className={`text-xs font-extrabold mt-0.5 ${isCurrent ? "text-maroon-800" : "text-ink-600"}`}>
-                        ₹{v.price.toLocaleString("en-IN")}
-                      </p>
+                      <span className={`font-black text-xs sm:text-sm truncate ${isCurrent ? "text-maroon-900" : "text-ink-800"}`}>
+                        {v.size} <span className="opacity-50 mx-0.5">-</span> ₹{v.price.toLocaleString("en-IN")}
+                      </span>
                       {discountPct > 0 && (
-                        <span className="text-[9px] font-black text-valley-700 bg-valley-50 px-1 py-0.5 rounded-md mt-1 inline-block">
+                        <span className="text-[9px] sm:text-[10px] font-black text-valley-700 bg-valley-50 px-1.5 py-0.5 rounded-md shrink-0">
                           -{discountPct}%
                         </span>
                       )}

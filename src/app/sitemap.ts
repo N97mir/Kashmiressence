@@ -21,6 +21,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/privacy-policy`,               lastModified: now, changeFrequency: "yearly",  priority: 0.3 },
     { url: `${BASE}/terms-of-service`,             lastModified: now, changeFrequency: "yearly",  priority: 0.3 },
     { url: `${BASE}/authority-index`,              lastModified: now, changeFrequency: "weekly",  priority: 0.5 },
+    { url: `${BASE}/birthday-gift-kashmir`,         lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/anniversary-gift-kashmir`,      lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/friend-gift-kashmir`,           lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/eid-gift-kashmir`,              lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/diwali-gift-kashmir`,           lastModified: now, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE}/corporate-gifts-kashmir`,       lastModified: now, changeFrequency: "monthly", priority: 0.8 },
   ];
 
   // ── Category pages

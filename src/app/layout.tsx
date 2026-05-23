@@ -154,6 +154,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <a href="/eid-gift-kashmir" className="hover:text-gold-400 transition-colors">Eid Gift Kashmir</a>
                 <a href="/diwali-gift-kashmir" className="hover:text-gold-400 transition-colors">Diwali Gift Kashmir</a>
                 <a href="/corporate-gifts-kashmir" className="hover:text-gold-400 transition-colors">Corporate Gifts Kashmir</a>
+                <a href="/birthday-gift-kashmir" className="hover:text-gold-400 transition-colors">Birthday Gift Kashmir</a>
+                <a href="/anniversary-gift-kashmir" className="hover:text-gold-400 transition-colors">Anniversary Gift Kashmir</a>
+                <a href="/friend-gift-kashmir" className="hover:text-gold-400 transition-colors">Friend Gift Kashmir</a>
                 <a href="/products/himalayan-shilajit-resin" className="hover:text-gold-400 transition-colors">Buy Shilajit Resin</a>
                 <a href="/products/kashmiri-saffron-mongra" className="hover:text-gold-400 transition-colors">Mongra Saffron 1g</a>
                 <a href="/products/kashmiri-kahwa-blend" className="hover:text-gold-400 transition-colors">Kashmiri Kahwa Blend</a>

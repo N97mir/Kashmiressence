@@ -32,6 +32,9 @@ const CAMPAIGNS = [
   { name: "Eid Gift Box Kashmir", href: "/eid-gift-kashmir" },
   { name: "Diwali Gift Box Kashmir", href: "/diwali-gift-kashmir" },
   { name: "Corporate Gifts Kashmir", href: "/corporate-gifts-kashmir" },
+  { name: "Birthday Gift Kashmir", href: "/birthday-gift-kashmir" },
+  { name: "Anniversary Gift Kashmir", href: "/anniversary-gift-kashmir" },
+  { name: "Friend Gift Kashmir", href: "/friend-gift-kashmir" },
 ];
 
 const CATEGORIES = [

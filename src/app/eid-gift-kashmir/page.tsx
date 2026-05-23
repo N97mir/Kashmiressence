@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata: Metadata = {
   title: "Eid Gifts from Kashmir | Kashmir Essence — Saffron, Shilajit & Dry Fruit Gift Sets",
@@ -27,15 +28,17 @@ export default function EidGiftKashmir() {
         <h2 className="text-2xl font-black text-maroon-950 mb-8 text-center">Popular Eid Gift Options</h2>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
           {[
-            { emoji: "✨", name: "Kashmiri Saffron Gift Tin (5g)", desc: "5g Mongra saffron in a premium velvet-lined gold tin. The ultimate luxury Eid gift, cherished for its purity and aroma.", price: "₹4,549", link: "/products/kashmiri-saffron-gift-tin" },
-            { emoji: "🎁", name: "Kashmir Dry Fruit Gift Box", desc: "Classic curated box of premium Mamra almonds, walnut kernels, and Mongra saffron. Hand-wrapped for Eid.", price: "₹4,099", link: "/products/kashmiri-dry-fruit-gift-box" },
-            { emoji: "🪨", name: "Mamra Almond Box", desc: "250g heritage Mamra almonds in premium gift packaging. Beloved by every generation — the traditional Eid dry fruit gift.", price: "₹700", link: "/products/mamra-almonds-premium" },
-            { emoji: "🍯", name: "Kashmir Raw Honey", desc: "500g raw alpine Kashmir honey in a glass jar. A thoughtful, healthy, and premium Eid gift.", price: "₹1,000", link: "/products/kashmiri-wildflower-honey" },
-            { emoji: "🏔️", name: "Himalayan Shilajit Resin", desc: "20g pure Shilajit resin — a unique and deeply meaningful wellness gift for health-conscious recipients.", price: "₹1,299", link: "/products/himalayan-shilajit-resin" },
-            { emoji: "🫖", name: "Kashmiri Kahwa Blend", desc: "100g premium green tea and spice Kahwa blend. The warmth and rich taste of Kashmir in a cup.", price: "₹399", link: "/products/kashmiri-kahwa-blend" },
+            { img: "/images/saffron-gift-tin.jpg", name: "Kashmiri Saffron Gift Tin (5g)", desc: "5g Mongra saffron in a premium velvet-lined gold tin. The ultimate luxury Eid gift, cherished for its purity and aroma.", price: "₹4,549", link: "/products/kashmiri-saffron-gift-tin" },
+            { img: "/images/dry-fruit-gift-box.jpg", name: "Kashmir Dry Fruit Gift Box", desc: "Classic curated box of premium Mamra almonds, walnut kernels, and Mongra saffron. Hand-wrapped for Eid.", price: "₹4,099", link: "/products/kashmiri-dry-fruit-gift-box" },
+            { img: "/images/mamra-almonds-250.jpg", name: "Mamra Almond Box", desc: "250g heritage Mamra almonds in premium gift packaging. Beloved by every generation — the traditional Eid dry fruit gift.", price: "₹700", link: "/products/mamra-almonds-premium" },
+            { img: "/images/kashmir-wildflower-honey.jpg", name: "Kashmir Raw Honey", desc: "500g raw alpine Kashmir honey in a glass jar. A thoughtful, healthy, and premium Eid gift.", price: "₹1,000", link: "/products/kashmiri-wildflower-honey" },
+            { img: "/images/shilajit-resin.jpg", name: "Himalayan Shilajit Resin", desc: "20g pure Shilajit resin — a unique and deeply meaningful wellness gift for health-conscious recipients.", price: "₹1,299", link: "/products/himalayan-shilajit-resin" },
+            { img: "/images/kashmiri-kahwa-blend.jpg", name: "Kashmiri Kahwa Blend", desc: "100g premium green tea and spice Kahwa blend. The warmth and rich taste of Kashmir in a cup.", price: "₹399", link: "/products/kashmiri-kahwa-blend" },
           ].map((p) => (
             <div key={p.name} className="bg-white border border-ivory-200 rounded-3xl p-6 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all flex flex-col">
-              <span className="text-5xl mb-4 block text-center">{p.emoji}</span>
+              <div className="relative h-48 w-full rounded-2xl overflow-hidden mb-4 bg-ivory-100 border border-ivory-200">
+                <Image src={p.img} alt={`Authentic ${p.name} from Kashmir`} fill className="object-cover" sizes="(max-width: 768px) 100vw, 33vw" priority />
+              </div>
               <h3 className="font-extrabold text-maroon-950 text-base mb-2 text-center">{p.name}</h3>
               <p className="text-ink-500 text-xs leading-relaxed mb-4 text-center flex-1">{p.desc}</p>
               <p className="text-xl font-black text-maroon-950 text-center mb-4">{p.price}</p>

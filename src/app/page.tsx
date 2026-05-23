@@ -225,7 +225,7 @@ export default function HomePage() {
         <video autoPlay muted loop playsInline preload="metadata" className="absolute inset-0 w-full h-full object-cover opacity-100 pointer-events-none" poster="/images/hero-poster.jpg">
           <source src="/videos/kashmir-hero-opt.mp4" type="video/mp4" />
         </video>
-        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/30 to-maroon-950/90" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-maroon-950/50" />
         <div className="absolute top-1/3 right-1/4 w-96 h-96 bg-gold-500/10 rounded-full blur-[120px] pointer-events-none" />
 
         <div className="relative z-10 max-w-5xl mx-auto px-6 text-center py-28">

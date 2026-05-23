@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 export const metadata: Metadata = {
   title: "Diwali Gifts from Kashmir | Kashmir Essence — Saffron, Dry Fruits & Honey Gift Sets",
   description: "Premium Diwali gifts from Kashmir — GI-Tagged saffron tins, Mamra almond hampers, Kashmir honey and dry fruit gift sets. The most meaningful Diwali gifts. Shipping India & worldwide.",
@@ -21,15 +22,17 @@ export default function DiwaliGiftKashmir() {
         <h2 className="text-2xl font-black text-maroon-950 mb-8 text-center">Diwali Gift Collections</h2>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
           {[
-            ["✨", "Kashmir Saffron Gift Tin", "The statement gift — 5g Mongra saffron in a premium tin. The luxury Diwali gift that anyone will remember.", "₹4,549", "/products/kashmiri-saffron-gift-tin"],
-            ["🎁", "Kashmir Dry Fruit Gift Box (Classic)", "Mamra almonds + Kashmiri walnuts + Kashmir saffron — the complete premium festive hamper.", "₹4,099", "/products/kashmiri-dry-fruit-gift-box"],
-            ["🪨", "Mamra Almond Box", "250g premium Mamra almonds in Diwali gift packaging. The gold standard Diwali dry fruit gift.", "₹700", "/products/mamra-almonds-premium"],
-            ["🍯", "Raw Kashmir Honey", "500g raw alpine honey in glass jar — a pure, wholesome Diwali gift.", "₹1,000", "/products/kashmiri-wildflower-honey"],
-            ["🫖", "Kahwa Gift Set", "Premium Kashmiri Kahwa blend — the warmth of Kashmir in a cup. Perfect gifting.", "₹399", "/products/kashmiri-kahwa-blend"],
-            ["🏔️", "Himalayan Shilajit", "A bold wellness gift — pure Himalayan Shilajit resin for health-conscious recipients.", "₹1,299", "/products/himalayan-shilajit-resin"]
-          ].map(([e,n,d,p,l])=>(
+            ["/images/saffron-gift-tin.jpg", "Kashmir Saffron Gift Tin (5g)", "The statement gift — 5g Mongra saffron in a premium tin. The luxury Diwali gift that anyone will remember.", "₹4,549", "/products/kashmiri-saffron-gift-tin"],
+            ["/images/dry-fruit-gift-box.jpg", "Kashmir Dry Fruit Gift Box (Classic)", "Mamra almonds + Kashmiri walnuts + Kashmir saffron — the complete premium festive hamper.", "₹4,099", "/products/kashmiri-dry-fruit-gift-box"],
+            ["/images/mamra-almonds-250.jpg", "Mamra Almond Box", "250g premium Mamra almonds in Diwali gift packaging. The gold standard Diwali dry fruit gift.", "₹700", "/products/mamra-almonds-premium"],
+            ["/images/kashmir-wildflower-honey.jpg", "Raw Kashmir Honey", "500g raw alpine honey in glass jar — a pure, wholesome Diwali gift.", "₹1,000", "/products/kashmiri-wildflower-honey"],
+            ["/images/kashmiri-kahwa-blend.jpg", "Kahwa Gift Set", "Premium Kashmiri Kahwa blend — the warmth of Kashmir in a cup. Perfect gifting.", "₹399", "/products/kashmiri-kahwa-blend"],
+            ["/images/shilajit-resin.jpg", "Himalayan Shilajit", "A bold wellness gift — pure Himalayan Shilajit resin for health-conscious recipients.", "₹1,299", "/products/himalayan-shilajit-resin"]
+          ].map(([img,n,d,p,l])=>(
             <div key={String(n)} className="bg-white border border-ivory-200 rounded-3xl p-6 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all flex flex-col">
-              <span className="text-5xl mb-4 block text-center">{String(e)}</span>
+              <div className="relative h-48 w-full rounded-2xl overflow-hidden mb-4 bg-ivory-100 border border-ivory-200">
+                <Image src={String(img)} alt={`Premium ${String(n)} from Kashmir`} fill className="object-cover" sizes="(max-width: 768px) 100vw, 33vw" priority />
+              </div>
               <h3 className="font-extrabold text-maroon-950 text-base mb-2 text-center">{String(n)}</h3>
               <p className="text-ink-500 text-xs leading-relaxed mb-4 text-center flex-1">{String(d)}</p>
               <p className="text-xl font-black text-maroon-950 text-center mb-4">{String(p)}</p>

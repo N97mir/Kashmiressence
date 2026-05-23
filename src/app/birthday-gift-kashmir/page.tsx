@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata: Metadata = {
   title: "Birthday Gifts from Kashmir | Kashmir Essence — Unique Saffron & Dry Fruit Hampers",
@@ -27,12 +28,14 @@ export default function GiftPage() {
         <h2 className="text-2xl font-black text-maroon-950 mb-8 text-center">Popular Birthday Gift Options</h2>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
           {[
-            { emoji: "✨", name: "Kashmiri Saffron Gift Tin (5g)", desc: "5g premium Mongra saffron in a luxury velvet-lined gold tin. A truly luxurious and meaningful gift.", price: "₹4,549", link: "/products/kashmiri-saffron-gift-tin" },
-            { emoji: "🪨", name: "Mamra Almond Box", desc: "Heritage Mamra almonds in gift-ready packaging. The classic healthy and premium dry fruit gift.", price: "₹700", link: "/products/mamra-almonds-premium" },
-            { emoji: "🎁", name: "Dry Fruit Gift Box", desc: "A classic curated box of Kashmir's finest dry fruits. Perfect for any special occasion.", price: "₹4,099", link: "/products/kashmiri-dry-fruit-gift-box" }
+            { img: "/images/saffron-gift-tin.jpg", name: "Kashmiri Saffron Gift Tin (5g)", desc: "5g premium Mongra saffron in a luxury velvet-lined gold tin. A truly luxurious and meaningful gift.", price: "₹4,549", link: "/products/kashmiri-saffron-gift-tin" },
+            { img: "/images/mamra-almonds-250.jpg", name: "Mamra Almond Box", desc: "Heritage Mamra almonds in gift-ready packaging. The classic healthy and premium dry fruit gift.", price: "₹700", link: "/products/mamra-almonds-premium" },
+            { img: "/images/dry-fruit-gift-box.jpg", name: "Dry Fruit Gift Box", desc: "A classic curated box of Kashmir's finest dry fruits. Perfect for any special occasion.", price: "₹4,099", link: "/products/kashmiri-dry-fruit-gift-box" }
           ].map((p, i) => (
             <div key={i} className="bg-white rounded-3xl p-6 shadow-xl shadow-maroon-900/5 border border-ivory-200 flex flex-col">
-              <div className="text-4xl mb-4 text-center">{p.emoji}</div>
+              <div className="relative h-48 w-full rounded-2xl overflow-hidden mb-4 bg-ivory-100 border border-ivory-200">
+                <Image src={p.img} alt={`Authentic ${p.name} from Kashmir`} fill className="object-cover" sizes="(max-width: 768px) 100vw, 33vw" priority />
+              </div>
               <h3 className="text-lg font-black text-maroon-950 text-center mb-2">{p.name}</h3>
               <p className="text-ink-500 text-xs leading-relaxed mb-4 text-center flex-1">{p.desc}</p>
               <p className="text-xl font-black text-maroon-950 text-center mb-4">{p.price}</p>

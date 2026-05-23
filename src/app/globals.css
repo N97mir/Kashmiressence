@@ -1,26 +1,136 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* ── Kashmir Essence Design System — v2 (Maroon × Saffron Gold × Ivory) ── */
+@theme {
+  /* Primary: Kashmir Maroon / Bordeaux — inspired by Kashmiri phiran, papier-mâché */
+  --color-maroon-50:  #fdf2f4;
+  --color-maroon-100: #fce7eb;
+  --color-maroon-200: #f9cfd6;
+  --color-maroon-300: #f4a7b4;
+  --color-maroon-400: #ed7088;
+  --color-maroon-500: #e04060;
+  --color-maroon-600: #cb2244;
+  --color-maroon-700: #aa1937;
+  --color-maroon-800: #8e1733;
+  --color-maroon-900: #7c1730;
+  --color-maroon-950: #450817;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  /* Saffron Gold — from the crocus fields of Pampore */
+  --color-gold-50:  #fefce8;
+  --color-gold-100: #fef9c3;
+  --color-gold-200: #fef08a;
+  --color-gold-300: #fde047;
+  --color-gold-400: #facc15;
+  --color-gold-500: #e6a817;
+  --color-gold-600: #c9922a;
+  --color-gold-700: #a87320;
+  --color-gold-800: #8a5c1e;
+  --color-gold-900: #6b4518;
+  --color-gold-950: #3d240a;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  /* Ivory Cream — warm Kashmir backgrounds */
+  --color-ivory-50:  #faf7f0;
+  --color-ivory-100: #f5ede0;
+  --color-ivory-200: #ead8bb;
+  --color-ivory-300: #ddc091;
+  --color-ivory-400: #cfa367;
+  --color-ivory-500: #c48c4a;
+  --color-ivory-600: #b5773e;
+  --color-ivory-700: #976035;
+  --color-ivory-800: #7a4e31;
+  --color-ivory-900: #634129;
+  --color-ivory-950: #352013;
+
+  /* Valley Green — Kashmir forests, shikara reflections */
+  --color-valley-50:  #f0faf4;
+  --color-valley-100: #daf3e4;
+  --color-valley-200: #b7e6cb;
+  --color-valley-300: #84d2a8;
+  --color-valley-400: #4db67e;
+  --color-valley-500: #299960;
+  --color-valley-600: #1a7d4c;
+  --color-valley-700: #16643e;
+  --color-valley-800: #155033;
+  --color-valley-900: #12422b;
+  --color-valley-950: #092518;
+
+  /* Dark Ink — for text and deep backgrounds */
+  --color-ink-50:  #f6f4f0;
+  --color-ink-100: #e8e4dc;
+  --color-ink-200: #d0c8b8;
+  --color-ink-300: #b5a78f;
+  --color-ink-400: #9a8a6e;
+  --color-ink-500: #877558;
+  --color-ink-600: #74624b;
+  --color-ink-700: #5f4f3e;
+  --color-ink-800: #504437;
+  --color-ink-900: #443931;
+  --color-ink-950: #1e1710;
+
+  /* Font */
+  --font-sans: var(--font-outfit), system-ui, sans-serif;
+
+  --animate-marquee: marquee 30s linear infinite;
+
+  @keyframes marquee {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-50%); }
   }
 }
 
+@layer utilities {
+  .shimmer-gold {
+    background: linear-gradient(90deg, var(--color-gold-600) 0%, var(--color-gold-300) 50%, var(--color-gold-600) 100%);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shimmerGold 3s linear infinite;
+  }
+}
+
+/* ── Base ───────────────────────────────────────────────────────────── */
+html { scroll-behavior: smooth; }
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #faf7f0;
+  color: var(--color-ink-950);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background-color: var(--color-gold-200);
+  color: var(--color-maroon-950);
+}
+
+/* ── Scrollbar ──────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: var(--color-ivory-50); }
+::-webkit-scrollbar-thumb { background: var(--color-gold-600); border-radius: 9999px; }
+
+/* ── Animations ─────────────────────────────────────────────────────── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes pulseSoft {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.55; }
+}
+@keyframes shimmerGold {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.animate-fade-up    { animation: fadeUp 0.7s ease forwards; }
+.animate-pulse-soft { animation: pulseSoft 2.5s ease-in-out infinite; }
+.shimmer-gold {
+  background: linear-gradient(90deg, var(--color-gold-600) 0%, var(--color-gold-300) 50%, var(--color-gold-600) 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmerGold 3s linear infinite;
 }

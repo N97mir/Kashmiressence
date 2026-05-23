@@ -1,0 +1,317 @@
+{
+  "gi-tagged-kashmir-mongra-saffron-1gm": {
+    "title": "Premium GI Tagged Kashmiri Saffron - Pure Mongra Kesar 1 Gram",
+    "price": 100000,
+    "compare_at_price": null,
+    "variants": [
+      {
+        "id": 40562854133847,
+        "title": "Default Title",
+        "price": 1000,
+        "compare_at_price": null,
+        "available": true
+      }
+    ]
+  },
+  "gi-tagged-saffron-2-gram": {
+    "title": "Buy GI tagged Kashmir Mongra Saffron 2gm | Grade A+++",
+    "price": 200000,
+    "compare_at_price": null,
+    "variants": [
+      {
+        "id": 41782570582103,
+        "title": "Spice / Dried / Glass bottle",
+        "price": 2000,
+        "compare_at_price": null,
+        "available": true
+      },
+      {
+        "id": 41782570614871,
+        "title": "Spice / raw / Glass bottle",
+        "price": 2000,
+        "compare_at_price": null,
+        "available": true
+      },
+      {
+        "id": 41782570647639,
+        "title": "Geographical Indications / Dried / Glass bottle",
+        "price": 2000,
+        "compare_at_price": null,
+        "available": false
+      },
+      {
+        "id": 41782570680407,
+        "title": "Geographical Indications / raw / Glass bottle",
+        "price": 2000,
+        "compare_at_price": null,
+        "available": true
+      }
+    ]
+  },
+  "gi-tagged-kashmir-mongra-saffron-5gm": {
+    "title": "Buy GI tagged Kashmir Mongra Saffron 5gm | Grade A+++",
+    "price": 500000,
+    "compare_at_price": null,
+    "variants": [
+      {
+        "id": 40564719059031,
+        "title": "Default Title",
+        "price": 5000,
+        "compare_at_price": null,
+        "available": true
+      }
+    ]
+  },
+  "gi-tagged-kashmir-mongra-saffron-10gm-grade-a-1": {
+    "title": "Buy GI tagged Kashmir Mongra Saffron 10gm | Grade A+++",
+    "price": 1000000,
+    "compare_at_price": null,
+    "variants": [
+      {
+        "id": 40565009678423,
+        "title": "Default Title",
+        "price": 10000,
+        "compare_at_price": null,
+        "available": true
+      }
+    ]
+  },
+  "saffron": {
+    "title": "Premium Kashmiri Mongra Saffron – Handpicked | Pure & Aromatic | Kashmir Online Store",
+    "price": 53000,
+    "compare_at_price": 99900,
+    "variants": [
+      {
+        "id": 39486669783127,
+        "title": "1 Gram Pack",
+        "price": 530,
+        "compare_at_price": null,
+        "available": true
+      },
+      {
+        "id": 39486669815895,
+        "title": "2 Grams Pack",
+        "price": 930,
+        "compare_at_price": 999,
+        "available": true
+      },
+      {
+        "id": 39486669848663,
+        "title": "3 Grams Pack",
+        "price": 1599,
+        "compare_at_price": 1499,
+        "available": true
+      },
+      {
+        "id": 39486669881431,
+        "title": "5 Grams Pack",
+        "price": 2599,
+        "compare_at_price": 1899,
+        "available": true
+      }
+    ]
+  },
+  "saffron-kesar": {
+    "title": "Premium Quality Kashmiri Mongra Saffron (Kesar)",
+    "price": 53000,
+    "compare_at_price": 48900,
+    "variants": [
+      {
+        "id": 39771337588823,
+        "title": "1 GRAM",
+        "price": 530,
+        "compare_at_price": 489,
+        "available": true
+      },
+      {
+        "id": 39771337621591,
+        "title": "2 GRAM",
+        "price": 930,
+        "compare_at_price": 899,
+        "available": true
+      },
+      {
+        "id": 39771337654359,
+        "title": "3 GRAM",
+        "price": 1550,
+        "compare_at_price": 1349,
+        "available": true
+      },
+      {
+        "id": 39771337687127,
+        "title": "5 GRAM",
+        "price": 2599,
+        "compare_at_price": 1799,
+        "available": true
+      }
+    ]
+  },
+  "mamra-badam": {
+    "title": "Buy Kashmiri Mamra Badam Almonds | Original Mamra Badam",
+    "price": 65000,
+    "compare_at_price": 89900,
+    "variants": [
+      {
+        "id": 39486265884759,
+        "title": "250GM",
+        "price": 650,
+        "compare_at_price": 899,
+        "available": true
+      },
+      {
+        "id": 39486265917527,
+        "title": "500GM",
+        "price": 1150,
+        "compare_at_price": 1399,
+        "available": true
+      },
+      {
+        "id": 39486265851991,
+        "title": "1KG",
+        "price": 2150,
+        "compare_at_price": 2399,
+        "available": true
+      },
+      {
+        "id": 40824810045527,
+        "title": "2KG",
+        "price": 4300,
+        "compare_at_price": 2399,
+        "available": true
+      },
+      {
+        "id": 40824810078295,
+        "title": "3KG",
+        "price": 6450,
+        "compare_at_price": 2399,
+        "available": true
+      },
+      {
+        "id": 40824810111063,
+        "title": "4KG",
+        "price": 8600,
+        "compare_at_price": 2399,
+        "available": true
+      },
+      {
+        "id": 40824810143831,
+        "title": "5KG",
+        "price": 10750,
+        "compare_at_price": 2399,
+        "available": true
+      }
+    ]
+  },
+  "walnut-kernels": {
+    "title": "Buy Kashmiri Walnuts Without Shell |Premium Quality Walnuts",
+    "price": 55000,
+    "compare_at_price": 79900,
+    "variants": [
+      {
+        "id": 39488745144407,
+        "title": "250 GM",
+        "price": 550,
+        "compare_at_price": 799,
+        "available": true
+      },
+      {
+        "id": 39488745177175,
+        "title": "500 GM",
+        "price": 1000,
+        "compare_at_price": 1299,
+        "available": true
+      },
+      {
+        "id": 39488745111639,
+        "title": "1 KG",
+        "price": 1800,
+        "compare_at_price": 2200,
+        "available": true
+      },
+      {
+        "id": 40824850448471,
+        "title": "2KG",
+        "price": 3200,
+        "compare_at_price": 2200,
+        "available": true
+      },
+      {
+        "id": 40824850481239,
+        "title": "3KG",
+        "price": 4500,
+        "compare_at_price": 2200,
+        "available": true
+      },
+      {
+        "id": 40824850514007,
+        "title": "4KG",
+        "price": 6500,
+        "compare_at_price": 2200,
+        "available": true
+      },
+      {
+        "id": 40824850546775,
+        "title": "5KG",
+        "price": 7500,
+        "compare_at_price": 2200,
+        "available": true
+      }
+    ]
+  },
+  "walnuts-with-shell": {
+    "title": "Buy Whole Walnuts With Shell | Premium Kashmiri Walnuts",
+    "price": 45000,
+    "compare_at_price": 60000,
+    "variants": [
+      {
+        "id": 39488751304791,
+        "title": "500 GM",
+        "price": 450,
+        "compare_at_price": 600,
+        "available": true
+      },
+      {
+        "id": 39488751239255,
+        "title": "1 KG",
+        "price": 800,
+        "compare_at_price": 999,
+        "available": true
+      },
+      {
+        "id": 39488751272023,
+        "title": "2 KG",
+        "price": 1500,
+        "compare_at_price": 1799,
+        "available": true
+      }
+    ]
+  },
+  "sulai-honey": {
+    "title": "Authentic Kashmiri Sulai Wild Honey – Raw Forest Honey from Himalayan Mountains | Kashmir Online Store",
+    "price": 65000,
+    "compare_at_price": null,
+    "variants": [
+      {
+        "id": 43507364298839,
+        "title": "500 Grams",
+        "price": 650,
+        "compare_at_price": null,
+        "available": true
+      },
+      {
+        "id": 43507364331607,
+        "title": "1 Kg",
+        "price": 1250,
+        "compare_at_price": null,
+        "available": true
+      },
+      {
+        "id": 43507364364375,
+        "title": "2 Kg",
+        "price": 2200,
+        "compare_at_price": null,
+        "available": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,1606 @@
+[
+  {
+    "slug": "kashmiri-saffron-mongra",
+    "name": "Kashmir Saffron (GI-Tagged) — Mongra Grade (1g)",
+    "isDefault": true,
+    "category": "saffron",
+    "size": "1g premium glass vial",
+    "weight": "1g net saffron",
+    "price": 699,
+    "mrp": 999,
+    "img": "/images/saffron-vial-1g.jpg",
+    "gallery": [
+      "/images/mongra-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-mongra",
+        "price": 699,
+        "mrp": 999
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-mongra-2g",
+        "price": 1299,
+        "mrp": 1899
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-mongra-5g",
+        "price": 2999,
+        "mrp": 4499
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-mongra-10g",
+        "price": 5499,
+        "mrp": 8499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-mongra-2g",
+    "name": "Kashmir Saffron (GI-Tagged) — Mongra Grade (2g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "2g premium glass vial",
+    "weight": "2g net saffron",
+    "price": 1299,
+    "mrp": 1899,
+    "img": "/images/saffron-vial-2g.jpg",
+    "gallery": [
+      "/images/mongra-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-mongra",
+        "price": 699,
+        "mrp": 999
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-mongra-2g",
+        "price": 1299,
+        "mrp": 1899
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-mongra-5g",
+        "price": 2999,
+        "mrp": 4499
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-mongra-10g",
+        "price": 5499,
+        "mrp": 8499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-mongra-5g",
+    "name": "Kashmir Saffron (GI-Tagged) — Mongra Grade (5g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "5g premium glass vial",
+    "weight": "5g net saffron",
+    "price": 2999,
+    "mrp": 4499,
+    "img": "/images/saffron-vial-5g.jpg",
+    "gallery": [
+      "/images/mongra-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-mongra",
+        "price": 699,
+        "mrp": 999
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-mongra-2g",
+        "price": 1299,
+        "mrp": 1899
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-mongra-5g",
+        "price": 2999,
+        "mrp": 4499
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-mongra-10g",
+        "price": 5499,
+        "mrp": 8499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-mongra-10g",
+    "name": "Kashmir Saffron (GI-Tagged) — Mongra Grade (10g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "10g premium glass vial",
+    "weight": "10g net saffron",
+    "price": 5499,
+    "mrp": 8499,
+    "img": "/images/saffron-vial-10g.jpg",
+    "gallery": [
+      "/images/mongra-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-mongra",
+        "price": 699,
+        "mrp": 999
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-mongra-2g",
+        "price": 1299,
+        "mrp": 1899
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-mongra-5g",
+        "price": 2999,
+        "mrp": 4499
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-mongra-10g",
+        "price": 5499,
+        "mrp": 8499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-normal-mongra-1g",
+    "name": "Kashmir Saffron (ISO Grade A) — Mongra Variety (1g)",
+    "isDefault": true,
+    "category": "saffron",
+    "size": "1g premium glass vial",
+    "weight": "1g net saffron",
+    "price": 499,
+    "mrp": 799,
+    "img": "/images/saffron-vial-1g.jpg",
+    "gallery": [
+      "/images/mongra-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-normal-mongra-1g",
+        "price": 499,
+        "mrp": 799
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-normal-mongra-2g",
+        "price": 949,
+        "mrp": 1499
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-normal-mongra-5g",
+        "price": 2199,
+        "mrp": 3499
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-normal-mongra-10g",
+        "price": 4199,
+        "mrp": 6799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-normal-mongra-2g",
+    "name": "Kashmir Saffron (ISO Grade A) — Mongra Variety (2g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "2g premium glass vial",
+    "weight": "2g net saffron",
+    "price": 949,
+    "mrp": 1499,
+    "img": "/images/saffron-vial-2g.jpg",
+    "gallery": [
+      "/images/mongra-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-normal-mongra-1g",
+        "price": 499,
+        "mrp": 799
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-normal-mongra-2g",
+        "price": 949,
+        "mrp": 1499
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-normal-mongra-5g",
+        "price": 2199,
+        "mrp": 3499
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-normal-mongra-10g",
+        "price": 4199,
+        "mrp": 6799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-normal-mongra-5g",
+    "name": "Kashmir Saffron (ISO Grade A) — Mongra Variety (5g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "5g premium glass vial",
+    "weight": "5g net saffron",
+    "price": 2199,
+    "mrp": 3499,
+    "img": "/images/saffron-vial-5g.jpg",
+    "gallery": [
+      "/images/mongra-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-normal-mongra-1g",
+        "price": 499,
+        "mrp": 799
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-normal-mongra-2g",
+        "price": 949,
+        "mrp": 1499
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-normal-mongra-5g",
+        "price": 2199,
+        "mrp": 3499
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-normal-mongra-10g",
+        "price": 4199,
+        "mrp": 6799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-normal-mongra-10g",
+    "name": "Kashmir Saffron (ISO Grade A) — Mongra Variety (10g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "10g premium glass vial",
+    "weight": "10g net saffron",
+    "price": 4199,
+    "mrp": 6799,
+    "img": "/images/saffron-vial-10g.jpg",
+    "gallery": [
+      "/images/mongra-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-normal-mongra-1g",
+        "price": 499,
+        "mrp": 799
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-normal-mongra-2g",
+        "price": 949,
+        "mrp": 1499
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-normal-mongra-5g",
+        "price": 2199,
+        "mrp": 3499
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-normal-mongra-10g",
+        "price": 4199,
+        "mrp": 6799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-lacha-1g",
+    "name": "Kashmir Saffron (GI-Tagged) — Lacha Grade (1g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "1g traditional glass vial",
+    "weight": "1g net saffron",
+    "price": 399,
+    "mrp": 599,
+    "img": "/images/lacha-saffron-vial-1g.jpg",
+    "gallery": [
+      "/images/lacha-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-lacha-1g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-lacha",
+        "price": 749,
+        "mrp": 1099
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-lacha-5g",
+        "price": 1799,
+        "mrp": 2599
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-lacha-10g",
+        "price": 3499,
+        "mrp": 4799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-lacha",
+    "name": "Kashmir Saffron (GI-Tagged) — Lacha Grade (2g)",
+    "isDefault": true,
+    "category": "saffron",
+    "size": "2g traditional glass vial",
+    "weight": "2g net saffron",
+    "price": 749,
+    "mrp": 1099,
+    "img": "/images/lacha-saffron-vial-2g.jpg",
+    "gallery": [
+      "/images/lacha-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-lacha-1g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-lacha",
+        "price": 749,
+        "mrp": 1099
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-lacha-5g",
+        "price": 1799,
+        "mrp": 2599
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-lacha-10g",
+        "price": 3499,
+        "mrp": 4799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-lacha-5g",
+    "name": "Kashmir Saffron (GI-Tagged) — Lacha Grade (5g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "5g traditional glass vial",
+    "weight": "5g net saffron",
+    "price": 1799,
+    "mrp": 2599,
+    "img": "/images/lacha-saffron-vial-5g.jpg",
+    "gallery": [
+      "/images/lacha-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-lacha-1g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-lacha",
+        "price": 749,
+        "mrp": 1099
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-lacha-5g",
+        "price": 1799,
+        "mrp": 2599
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-lacha-10g",
+        "price": 3499,
+        "mrp": 4799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-lacha-10g",
+    "name": "Kashmir Saffron (GI-Tagged) — Lacha Grade (10g)",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "10g traditional glass vial",
+    "weight": "10g net saffron",
+    "price": 3499,
+    "mrp": 4799,
+    "img": "/images/lacha-saffron-vial-10g.jpg",
+    "gallery": [
+      "/images/lacha-saffron-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "1g",
+        "slug": "kashmiri-saffron-lacha-1g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "2g",
+        "slug": "kashmiri-saffron-lacha",
+        "price": 749,
+        "mrp": 1099
+      },
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-lacha-5g",
+        "price": 1799,
+        "mrp": 2599
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-lacha-10g",
+        "price": 3499,
+        "mrp": 4799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-gift-tin",
+    "name": "Kashmir Saffron Gift Tin — 5g",
+    "isDefault": true,
+    "category": "saffron",
+    "size": "5g luxury tin",
+    "weight": "5g net",
+    "price": 2499,
+    "mrp": 3299,
+    "img": "/images/saffron-gift-tin.jpg",
+    "gallery": [
+      "/images/saffron-gift-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-gift-tin",
+        "price": 2499,
+        "mrp": 3299
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-gift-tin-10g",
+        "price": 4799,
+        "mrp": 6499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-saffron-gift-tin-10g",
+    "name": "Kashmir Saffron Gift Tin — 10g",
+    "isDefault": false,
+    "category": "saffron",
+    "size": "10g luxury tin",
+    "weight": "10g net",
+    "price": 4799,
+    "mrp": 6499,
+    "img": "/images/saffron-gift-tin.jpg",
+    "gallery": [
+      "/images/saffron-gift-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "5g",
+        "slug": "kashmiri-saffron-gift-tin",
+        "price": 2499,
+        "mrp": 3299
+      },
+      {
+        "size": "10g",
+        "slug": "kashmiri-saffron-gift-tin-10g",
+        "price": 4799,
+        "mrp": 6499
+      }
+    ]
+  },
+  {
+    "slug": "himalayan-shilajit-resin-15g",
+    "name": "Himalayan Shilajit Resin (15g)",
+    "isDefault": false,
+    "category": "shilajit",
+    "size": "15g amber glass jar",
+    "weight": "15g net resin",
+    "price": 999,
+    "mrp": 1499,
+    "img": "/images/shilajit-jar-15g.jpg",
+    "gallery": [
+      "/images/shilajit-spatula.jpg"
+    ],
+    "variants": [
+      {
+        "size": "15g",
+        "slug": "himalayan-shilajit-resin-15g",
+        "price": 999,
+        "mrp": 1499
+      },
+      {
+        "size": "20g",
+        "slug": "himalayan-shilajit-resin",
+        "price": 1299,
+        "mrp": 1999
+      },
+      {
+        "size": "30g",
+        "slug": "himalayan-shilajit-resin-30g",
+        "price": 1799,
+        "mrp": 2799
+      },
+      {
+        "size": "50g",
+        "slug": "himalayan-shilajit-resin-50g",
+        "price": 2799,
+        "mrp": 4499
+      }
+    ]
+  },
+  {
+    "slug": "himalayan-shilajit-resin",
+    "name": "Himalayan Shilajit Resin (20g)",
+    "isDefault": true,
+    "category": "shilajit",
+    "size": "20g amber glass jar",
+    "weight": "20g net resin",
+    "price": 1299,
+    "mrp": 1999,
+    "img": "/images/shilajit-resin.jpg",
+    "gallery": [
+      "/images/shilajit-spatula.jpg"
+    ],
+    "variants": [
+      {
+        "size": "15g",
+        "slug": "himalayan-shilajit-resin-15g",
+        "price": 999,
+        "mrp": 1499
+      },
+      {
+        "size": "20g",
+        "slug": "himalayan-shilajit-resin",
+        "price": 1299,
+        "mrp": 1999
+      },
+      {
+        "size": "30g",
+        "slug": "himalayan-shilajit-resin-30g",
+        "price": 1799,
+        "mrp": 2799
+      },
+      {
+        "size": "50g",
+        "slug": "himalayan-shilajit-resin-50g",
+        "price": 2799,
+        "mrp": 4499
+      }
+    ]
+  },
+  {
+    "slug": "himalayan-shilajit-resin-30g",
+    "name": "Himalayan Shilajit Resin (30g)",
+    "isDefault": false,
+    "category": "shilajit",
+    "size": "30g amber glass jar",
+    "weight": "30g net resin",
+    "price": 1799,
+    "mrp": 2799,
+    "img": "/images/shilajit-jar-30g.jpg",
+    "gallery": [
+      "/images/shilajit-spatula.jpg"
+    ],
+    "variants": [
+      {
+        "size": "15g",
+        "slug": "himalayan-shilajit-resin-15g",
+        "price": 999,
+        "mrp": 1499
+      },
+      {
+        "size": "20g",
+        "slug": "himalayan-shilajit-resin",
+        "price": 1299,
+        "mrp": 1999
+      },
+      {
+        "size": "30g",
+        "slug": "himalayan-shilajit-resin-30g",
+        "price": 1799,
+        "mrp": 2799
+      },
+      {
+        "size": "50g",
+        "slug": "himalayan-shilajit-resin-50g",
+        "price": 2799,
+        "mrp": 4499
+      }
+    ]
+  },
+  {
+    "slug": "himalayan-shilajit-resin-50g",
+    "name": "Himalayan Shilajit Resin (50g)",
+    "isDefault": false,
+    "category": "shilajit",
+    "size": "50g amber glass jar",
+    "weight": "50g net resin",
+    "price": 2799,
+    "mrp": 4499,
+    "img": "/images/shilajit-jar-50g.jpg",
+    "gallery": [
+      "/images/shilajit-spatula.jpg"
+    ],
+    "variants": [
+      {
+        "size": "15g",
+        "slug": "himalayan-shilajit-resin-15g",
+        "price": 999,
+        "mrp": 1499
+      },
+      {
+        "size": "20g",
+        "slug": "himalayan-shilajit-resin",
+        "price": 1299,
+        "mrp": 1999
+      },
+      {
+        "size": "30g",
+        "slug": "himalayan-shilajit-resin-30g",
+        "price": 1799,
+        "mrp": 2799
+      },
+      {
+        "size": "50g",
+        "slug": "himalayan-shilajit-resin-50g",
+        "price": 2799,
+        "mrp": 4499
+      }
+    ]
+  },
+  {
+    "slug": "mamra-almonds-premium",
+    "name": "Mamra Almonds — Kashmiri Heritage (250g)",
+    "isDefault": true,
+    "category": "almonds",
+    "size": "250g resealable pouch",
+    "weight": "250g net",
+    "price": 549,
+    "mrp": 749,
+    "img": "/images/mamra-almonds-250.jpg",
+    "gallery": [
+      "/images/mamra-almond-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "mamra-almonds-premium",
+        "price": 549,
+        "mrp": 749
+      },
+      {
+        "size": "500g",
+        "slug": "mamra-almonds-500g",
+        "price": 999,
+        "mrp": 1399
+      },
+      {
+        "size": "1kg",
+        "slug": "mamra-almonds-1kg",
+        "price": 1899,
+        "mrp": 2699
+      }
+    ]
+  },
+  {
+    "slug": "mamra-almonds-500g",
+    "name": "Mamra Almonds — Kashmiri Heritage (500g)",
+    "isDefault": false,
+    "category": "almonds",
+    "size": "500g resealable pouch",
+    "weight": "500g net",
+    "price": 999,
+    "mrp": 1399,
+    "img": "/images/mamra-almonds-500g.jpg",
+    "gallery": [
+      "/images/mamra-almond-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "mamra-almonds-premium",
+        "price": 549,
+        "mrp": 749
+      },
+      {
+        "size": "500g",
+        "slug": "mamra-almonds-500g",
+        "price": 999,
+        "mrp": 1399
+      },
+      {
+        "size": "1kg",
+        "slug": "mamra-almonds-1kg",
+        "price": 1899,
+        "mrp": 2699
+      }
+    ]
+  },
+  {
+    "slug": "mamra-almonds-1kg",
+    "name": "Mamra Almonds — Kashmiri Heritage (1kg)",
+    "isDefault": false,
+    "category": "almonds",
+    "size": "1kg resealable pouch",
+    "weight": "1kg net",
+    "price": 1899,
+    "mrp": 2699,
+    "img": "/images/mamra-almonds-1kg.jpg",
+    "gallery": [
+      "/images/mamra-almond-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "mamra-almonds-premium",
+        "price": 549,
+        "mrp": 749
+      },
+      {
+        "size": "500g",
+        "slug": "mamra-almonds-500g",
+        "price": 999,
+        "mrp": 1399
+      },
+      {
+        "size": "1kg",
+        "slug": "mamra-almonds-1kg",
+        "price": 1899,
+        "mrp": 2699
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-walnut-kernels-250g",
+    "name": "Kashmiri Walnut Kernels (Extra Light Halves) — 250g",
+    "isDefault": false,
+    "category": "walnuts",
+    "size": "250g premium pouch",
+    "weight": "250g net kernels",
+    "price": 379,
+    "mrp": 549,
+    "img": "/images/kashmiri-walnut-kernels-250g.jpg",
+    "gallery": [
+      "/images/walnut-halves-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-walnut-kernels-250g",
+        "price": 379,
+        "mrp": 549
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-walnut-kernels",
+        "price": 699,
+        "mrp": 999
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-walnut-kernels-1kg",
+        "price": 1299,
+        "mrp": 1899
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-walnut-kernels",
+    "name": "Kashmiri Walnut Kernels (Extra Light Halves) — 500g",
+    "isDefault": true,
+    "category": "walnuts",
+    "size": "500g premium pouch",
+    "weight": "500g net kernels",
+    "price": 699,
+    "mrp": 999,
+    "img": "/images/kashmiri-walnut-kernels.jpg",
+    "gallery": [
+      "/images/walnut-halves-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-walnut-kernels-250g",
+        "price": 379,
+        "mrp": 549
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-walnut-kernels",
+        "price": 699,
+        "mrp": 999
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-walnut-kernels-1kg",
+        "price": 1299,
+        "mrp": 1899
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-walnut-kernels-1kg",
+    "name": "Kashmiri Walnut Kernels (Extra Light Halves) — 1kg",
+    "isDefault": false,
+    "category": "walnuts",
+    "size": "1kg premium pouch",
+    "weight": "1kg net kernels",
+    "price": 1299,
+    "mrp": 1899,
+    "img": "/images/kashmiri-walnut-kernels-1kg.jpg",
+    "gallery": [
+      "/images/walnut-halves-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-walnut-kernels-250g",
+        "price": 379,
+        "mrp": 549
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-walnut-kernels",
+        "price": 699,
+        "mrp": 999
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-walnut-kernels-1kg",
+        "price": 1299,
+        "mrp": 1899
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-walnuts-inshell-500g",
+    "name": "Kashmiri Walnuts In-Shell (Paper-Shell) — 500g",
+    "isDefault": false,
+    "category": "walnuts",
+    "size": "500g traditional bag",
+    "weight": "500g net in-shell",
+    "price": 399,
+    "mrp": 599,
+    "img": "/images/kashmiri-walnuts-inshell.jpg",
+    "gallery": [
+      "/images/walnut-halves-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "500g",
+        "slug": "kashmiri-walnuts-inshell-500g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-walnuts-inshell-1kg",
+        "price": 699,
+        "mrp": 999
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-walnuts-inshell-1kg",
+    "name": "Kashmiri Walnuts In-Shell (Paper-Shell) — 1kg",
+    "isDefault": true,
+    "category": "walnuts",
+    "size": "1kg traditional bag",
+    "weight": "1kg net in-shell",
+    "price": 699,
+    "mrp": 999,
+    "img": "/images/kashmiri-walnuts-inshell.jpg",
+    "gallery": [
+      "/images/walnut-halves-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "500g",
+        "slug": "kashmiri-walnuts-inshell-500g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-walnuts-inshell-1kg",
+        "price": 699,
+        "mrp": 999
+      }
+    ]
+  },
+  {
+    "slug": "ramban-sulai-honey-250g",
+    "name": "Ramban Sulai Honey (GI-Tagged) — 250g",
+    "isDefault": false,
+    "category": "honey",
+    "size": "250g glass jar",
+    "weight": "250g net honey",
+    "price": 549,
+    "mrp": 799,
+    "img": "/images/ramban-sulai-honey.jpg",
+    "gallery": [
+      "/images/sulai-honey-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "ramban-sulai-honey-250g",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "500g",
+        "slug": "ramban-sulai-honey",
+        "price": 999,
+        "mrp": 1499
+      },
+      {
+        "size": "1kg",
+        "slug": "ramban-sulai-honey-1kg",
+        "price": 1899,
+        "mrp": 2799
+      }
+    ]
+  },
+  {
+    "slug": "ramban-sulai-honey",
+    "name": "Ramban Sulai Honey (GI-Tagged) — 500g",
+    "isDefault": true,
+    "category": "honey",
+    "size": "500g glass jar",
+    "weight": "500g net honey",
+    "price": 999,
+    "mrp": 1499,
+    "img": "/images/ramban-sulai-honey.jpg",
+    "gallery": [
+      "/images/sulai-honey-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "ramban-sulai-honey-250g",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "500g",
+        "slug": "ramban-sulai-honey",
+        "price": 999,
+        "mrp": 1499
+      },
+      {
+        "size": "1kg",
+        "slug": "ramban-sulai-honey-1kg",
+        "price": 1899,
+        "mrp": 2799
+      }
+    ]
+  },
+  {
+    "slug": "ramban-sulai-honey-1kg",
+    "name": "Ramban Sulai Honey (GI-Tagged) — 1kg",
+    "isDefault": false,
+    "category": "honey",
+    "size": "1kg glass jar",
+    "weight": "1kg net honey",
+    "price": 1899,
+    "mrp": 2799,
+    "img": "/images/ramban-sulai-honey.jpg",
+    "gallery": [
+      "/images/sulai-honey-close.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "ramban-sulai-honey-250g",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "500g",
+        "slug": "ramban-sulai-honey",
+        "price": 999,
+        "mrp": 1499
+      },
+      {
+        "size": "1kg",
+        "slug": "ramban-sulai-honey-1kg",
+        "price": 1899,
+        "mrp": 2799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-wildflower-honey-250g",
+    "name": "Kashmir Wildflower Honey — Alpine (250g)",
+    "isDefault": false,
+    "category": "honey",
+    "size": "250g glass jar",
+    "weight": "250g net honey",
+    "price": 299,
+    "mrp": 449,
+    "img": "/images/kashmir-wildflower-honey.jpg",
+    "gallery": [
+      "/images/honey-jar-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-wildflower-honey-250g",
+        "price": 299,
+        "mrp": 449
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-wildflower-honey",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-wildflower-honey-1kg",
+        "price": 999,
+        "mrp": 1499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-wildflower-honey",
+    "name": "Kashmir Wildflower Honey — Alpine (500g)",
+    "isDefault": true,
+    "category": "honey",
+    "size": "500g glass jar",
+    "weight": "500g net honey",
+    "price": 549,
+    "mrp": 799,
+    "img": "/images/kashmir-wildflower-honey.jpg",
+    "gallery": [
+      "/images/honey-jar-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-wildflower-honey-250g",
+        "price": 299,
+        "mrp": 449
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-wildflower-honey",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-wildflower-honey-1kg",
+        "price": 999,
+        "mrp": 1499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-wildflower-honey-1kg",
+    "name": "Kashmir Wildflower Honey — Alpine (1kg)",
+    "isDefault": false,
+    "category": "honey",
+    "size": "1kg glass jar",
+    "weight": "1kg net honey",
+    "price": 999,
+    "mrp": 1499,
+    "img": "/images/kashmir-wildflower-honey.jpg",
+    "gallery": [
+      "/images/honey-jar-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-wildflower-honey-250g",
+        "price": 299,
+        "mrp": 449
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-wildflower-honey",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-wildflower-honey-1kg",
+        "price": 999,
+        "mrp": 1499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-acacia-honey-250g",
+    "name": "Kashmir Acacia Honey — Pure White (250g)",
+    "isDefault": false,
+    "category": "honey",
+    "size": "250g glass jar",
+    "weight": "250g net honey",
+    "price": 399,
+    "mrp": 599,
+    "img": "/images/kashmir-acacia-honey.jpg",
+    "gallery": [
+      "/images/honey-jar-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-acacia-honey-250g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-acacia-honey-500g",
+        "price": 749,
+        "mrp": 1099
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-acacia-honey-1kg",
+        "price": 1399,
+        "mrp": 1999
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-acacia-honey-500g",
+    "name": "Kashmir Acacia Honey — Pure White (500g)",
+    "isDefault": true,
+    "category": "honey",
+    "size": "500g glass jar",
+    "weight": "500g net honey",
+    "price": 749,
+    "mrp": 1099,
+    "img": "/images/kashmir-acacia-honey.jpg",
+    "gallery": [
+      "/images/honey-jar-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-acacia-honey-250g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-acacia-honey-500g",
+        "price": 749,
+        "mrp": 1099
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-acacia-honey-1kg",
+        "price": 1399,
+        "mrp": 1999
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-acacia-honey-1kg",
+    "name": "Kashmir Acacia Honey — Pure White (1kg)",
+    "isDefault": false,
+    "category": "honey",
+    "size": "1kg glass jar",
+    "weight": "1kg net honey",
+    "price": 1399,
+    "mrp": 1999,
+    "img": "/images/kashmir-acacia-honey.jpg",
+    "gallery": [
+      "/images/honey-jar-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "250g",
+        "slug": "kashmiri-acacia-honey-250g",
+        "price": 399,
+        "mrp": 599
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-acacia-honey-500g",
+        "price": 749,
+        "mrp": 1099
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-acacia-honey-1kg",
+        "price": 1399,
+        "mrp": 1999
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-kahwa-blend",
+    "name": "Kashmiri Kahwa Spice Blend — Traditional (100g)",
+    "isDefault": true,
+    "category": "spices",
+    "size": "100g tin",
+    "weight": "100g net weight",
+    "price": 399,
+    "mrp": 549,
+    "img": "/images/kashmiri-kahwa-blend.jpg",
+    "gallery": [
+      "/images/kahwa-cup-pour.jpg"
+    ],
+    "variants": [
+      {
+        "size": "100g",
+        "slug": "kashmiri-kahwa-blend",
+        "price": 399,
+        "mrp": 549
+      },
+      {
+        "size": "250g",
+        "slug": "kashmiri-kahwa-blend-250g",
+        "price": 899,
+        "mrp": 1299
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-kahwa-blend-500g",
+        "price": 1699,
+        "mrp": 2499
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-kahwa-blend-1kg",
+        "price": 2999,
+        "mrp": 4799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-kahwa-blend-250g",
+    "name": "Kashmiri Kahwa Spice Blend — Traditional (250g)",
+    "isDefault": false,
+    "category": "spices",
+    "size": "250g tin",
+    "weight": "250g net weight",
+    "price": 899,
+    "mrp": 1299,
+    "img": "/images/kashmiri-kahwa-blend.jpg",
+    "gallery": [
+      "/images/kahwa-cup-pour.jpg"
+    ],
+    "variants": [
+      {
+        "size": "100g",
+        "slug": "kashmiri-kahwa-blend",
+        "price": 399,
+        "mrp": 549
+      },
+      {
+        "size": "250g",
+        "slug": "kashmiri-kahwa-blend-250g",
+        "price": 899,
+        "mrp": 1299
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-kahwa-blend-500g",
+        "price": 1699,
+        "mrp": 2499
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-kahwa-blend-1kg",
+        "price": 2999,
+        "mrp": 4799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-kahwa-blend-500g",
+    "name": "Kashmiri Kahwa Spice Blend — Traditional (500g)",
+    "isDefault": false,
+    "category": "spices",
+    "size": "500g tin",
+    "weight": "500g net weight",
+    "price": 1699,
+    "mrp": 2499,
+    "img": "/images/kashmiri-kahwa-blend.jpg",
+    "gallery": [
+      "/images/kahwa-cup-pour.jpg"
+    ],
+    "variants": [
+      {
+        "size": "100g",
+        "slug": "kashmiri-kahwa-blend",
+        "price": 399,
+        "mrp": 549
+      },
+      {
+        "size": "250g",
+        "slug": "kashmiri-kahwa-blend-250g",
+        "price": 899,
+        "mrp": 1299
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-kahwa-blend-500g",
+        "price": 1699,
+        "mrp": 2499
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-kahwa-blend-1kg",
+        "price": 2999,
+        "mrp": 4799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-kahwa-blend-1kg",
+    "name": "Kashmiri Kahwa Spice Blend — Traditional (1kg)",
+    "isDefault": false,
+    "category": "spices",
+    "size": "1kg tin",
+    "weight": "1kg net weight",
+    "price": 2999,
+    "mrp": 4799,
+    "img": "/images/kashmiri-kahwa-blend.jpg",
+    "gallery": [
+      "/images/kahwa-cup-pour.jpg"
+    ],
+    "variants": [
+      {
+        "size": "100g",
+        "slug": "kashmiri-kahwa-blend",
+        "price": 399,
+        "mrp": 549
+      },
+      {
+        "size": "250g",
+        "slug": "kashmiri-kahwa-blend-250g",
+        "price": 899,
+        "mrp": 1299
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-kahwa-blend-500g",
+        "price": 1699,
+        "mrp": 2499
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-kahwa-blend-1kg",
+        "price": 2999,
+        "mrp": 4799
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-chilli-powder-100g",
+    "name": "Kashmiri Chilli Powder — Srinagar Origin (100g)",
+    "isDefault": false,
+    "category": "spices",
+    "size": "100g airtight pouch",
+    "weight": "100g net weight",
+    "price": 139,
+    "mrp": 199,
+    "img": "/images/kashmiri-chilli-powder.jpg",
+    "gallery": [
+      "/images/chilli-powder-spoon.jpg"
+    ],
+    "variants": [
+      {
+        "size": "100g",
+        "slug": "kashmiri-chilli-powder-100g",
+        "price": 139,
+        "mrp": 199
+      },
+      {
+        "size": "250g",
+        "slug": "kashmiri-chilli-powder-250g",
+        "price": 299,
+        "mrp": 429
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-chilli-powder-500g",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-chilli-powder-1kg",
+        "price": 999,
+        "mrp": 1499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-chilli-powder-250g",
+    "name": "Kashmiri Chilli Powder — Srinagar Origin (250g)",
+    "isDefault": false,
+    "category": "spices",
+    "size": "250g airtight pouch",
+    "weight": "250g net weight",
+    "price": 299,
+    "mrp": 429,
+    "img": "/images/kashmiri-chilli-powder.jpg",
+    "gallery": [
+      "/images/chilli-powder-spoon.jpg"
+    ],
+    "variants": [
+      {
+        "size": "100g",
+        "slug": "kashmiri-chilli-powder-100g",
+        "price": 139,
+        "mrp": 199
+      },
+      {
+        "size": "250g",
+        "slug": "kashmiri-chilli-powder-250g",
+        "price": 299,
+        "mrp": 429
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-chilli-powder-500g",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-chilli-powder-1kg",
+        "price": 999,
+        "mrp": 1499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-chilli-powder-500g",
+    "name": "Kashmiri Chilli Powder — Srinagar Origin (500g)",
+    "isDefault": false,
+    "category": "spices",
+    "size": "500g airtight pouch",
+    "weight": "500g net weight",
+    "price": 549,
+    "mrp": 799,
+    "img": "/images/kashmiri-chilli-powder.jpg",
+    "gallery": [
+      "/images/chilli-powder-spoon.jpg"
+    ],
+    "variants": [
+      {
+        "size": "100g",
+        "slug": "kashmiri-chilli-powder-100g",
+        "price": 139,
+        "mrp": 199
+      },
+      {
+        "size": "250g",
+        "slug": "kashmiri-chilli-powder-250g",
+        "price": 299,
+        "mrp": 429
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-chilli-powder-500g",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-chilli-powder-1kg",
+        "price": 999,
+        "mrp": 1499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-chilli-powder-1kg",
+    "name": "Kashmiri Chilli Powder — Srinagar Origin (1kg)",
+    "isDefault": false,
+    "category": "spices",
+    "size": "1kg airtight pouch",
+    "weight": "1kg net weight",
+    "price": 999,
+    "mrp": 1499,
+    "img": "/images/kashmiri-chilli-powder.jpg",
+    "gallery": [
+      "/images/chilli-powder-spoon.jpg"
+    ],
+    "variants": [
+      {
+        "size": "100g",
+        "slug": "kashmiri-chilli-powder-100g",
+        "price": 139,
+        "mrp": 199
+      },
+      {
+        "size": "250g",
+        "slug": "kashmiri-chilli-powder-250g",
+        "price": 299,
+        "mrp": 429
+      },
+      {
+        "size": "500g",
+        "slug": "kashmiri-chilli-powder-500g",
+        "price": 549,
+        "mrp": 799
+      },
+      {
+        "size": "1kg",
+        "slug": "kashmiri-chilli-powder-1kg",
+        "price": 999,
+        "mrp": 1499
+      }
+    ]
+  },
+  {
+    "slug": "kashmiri-dry-fruit-gift-box",
+    "name": "Kashmir Dry Fruit Gift Box (Classic)",
+    "isDefault": true,
+    "category": "gift-boxes",
+    "size": "500g Curated Box (250g Almonds + 250g Walnuts + 1g Saffron)",
+    "weight": "500g net + Saffron",
+    "price": 1499,
+    "mrp": 2099,
+    "img": "/images/dry-fruit-gift-box.jpg",
+    "gallery": [
+      "/images/gift-box-open.jpg"
+    ],
+    "variants": [
+      {
+        "size": "Classic",
+        "slug": "kashmiri-dry-fruit-gift-box",
+        "price": 1499,
+        "mrp": 2099
+      }
+    ]
+  }
+]

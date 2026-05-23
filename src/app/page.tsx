@@ -522,11 +522,10 @@ export default function HomePage() {
       <section className="py-16 px-6 md:px-12 bg-ivory-50 border-t border-ivory-200">
         <div className="max-w-7xl mx-auto">
           <p className="text-gold-700 font-black text-xs tracking-[0.3em] uppercase text-center mb-10">Also from the Valley</p>
-          <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-5">
+          <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
             {[
               { href: "/categories/walnuts", img: "/images/kashmiri-walnut-kernels.jpg", alt: "Kashmiri Walnut Kernels Extra Light Halves — high omega-3 paper-shell variety", name: "Kashmiri Walnuts", sub: "Extra Light Halves · High Omega-3" },
               { href: "/categories/spices", img: "/images/kashmiri-kahwa-blend.jpg", alt: "Kashmiri Kahwa Spice Blend — traditional recipe with saffron, cardamom, cinnamon", name: "Kahwa Blend", sub: "Traditional Recipe · With Saffron" },
-              { href: "/products/kashmiri-dry-fruit-gift-box", img: "/images/dry-fruit-gift-box.jpg", alt: "Kashmir Dry Fruit Gift Box — premium curated hamper with saffron, almonds, walnuts", name: "Gift Hampers", sub: "Curated Kashmir Gift Boxes" },
               { href: "/categories/honey", img: "/images/kashmir-wildflower-honey.jpg", alt: "Kashmir Wildflower Honey — raw alpine wildflower honey 500g glass jar", name: "Wildflower Honey", sub: "Raw · Alpine · 15+ Wildflowers" },
             ].map((item) => (
               <Link key={item.href} href={item.href}

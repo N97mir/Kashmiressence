@@ -13,7 +13,7 @@ const EMOJI: Record<string, string> = {
   honey: "🍯", spices: "🫖", "gift-boxes": "🎁", shilajit: "🏔️",
 };
 
-const CATEGORY_ORDER = ["saffron", "shilajit", "almonds", "walnuts", "honey", "spices", "gift-boxes"];
+const CATEGORY_ORDER = ["saffron", "shilajit", "almonds", "walnuts", "honey", "spices"];
 
 export default function ProductsPage() {
   const grouped = CATEGORY_ORDER.map((cat) => ({
@@ -23,7 +23,7 @@ export default function ProductsPage() {
 
   const CAT_LABELS: Record<string, string> = {
     saffron: "Saffron", shilajit: "Shilajit", almonds: "Almonds",
-    walnuts: "Walnuts", honey: "Honey", spices: "Spices & Kahwa", "gift-boxes": "Gift Boxes",
+    walnuts: "Walnuts", honey: "Honey", spices: "Spices & Kahwa",
   };
 
   return (

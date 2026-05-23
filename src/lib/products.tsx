@@ -1919,7 +1919,7 @@ export const products = [
     ],
     "description": "An exquisite 5g Kashmir Saffron Gift Tin. Featuring an embossed golden tin with premium velvet padding inside, it houses a curated blend of GI-Tagged Mongra and Lacha saffron. Every pack includes a decorative recipe booklet and an authentication card detailing the origin, harvest season, and testing metrics. The ultimate statement gift for weddings, corporate executives, Eid, and Diwali.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Saffron Gift Tin (5g).",
-    "price": 4800,
+    "price": 4549,
     "mrp": 3500,
     "faqs": [
       {
@@ -2034,13 +2034,13 @@ export const products = [
       {
         "size": "5g",
         "slug": "kashmiri-saffron-gift-tin",
-        "price": 2549,
+        "price": 4549,
         "mrp": 3500
       },
       {
         "size": "10g",
         "slug": "kashmiri-saffron-gift-tin-10g",
-        "price": 8900,
+        "price": 8800,
         "mrp": 6500
       }
     ]
@@ -2065,7 +2065,7 @@ export const products = [
     ],
     "description": "An exquisite 10g Kashmir Saffron Gift Tin. Featuring an embossed golden tin with premium velvet padding inside, it houses a curated blend of GI-Tagged Mongra and Lacha saffron. Every pack includes a decorative recipe booklet and an authentication card detailing the origin, harvest season, and testing metrics. The ultimate statement gift for weddings, corporate executives, Eid, and Diwali.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Saffron Gift Tin (10g).",
-    "price": 8900,
+    "price": 8800,
     "mrp": 6500,
     "faqs": [
       {
@@ -2180,13 +2180,13 @@ export const products = [
       {
         "size": "5g",
         "slug": "kashmiri-saffron-gift-tin",
-        "price": 2549,
+        "price": 4549,
         "mrp": 3500
       },
       {
         "size": "10g",
         "slug": "kashmiri-saffron-gift-tin-10g",
-        "price": 8900,
+        "price": 8800,
         "mrp": 6500
       }
     ]
@@ -3785,7 +3785,7 @@ export const products = [
     ],
     "description": "Officially GI-Tagged Ramban Sulai Honey in a 250g jar. Harvested by honeybees foraging exclusively in the wild Sulai (Plectranthus rugosus) shrub forests of the Ramban and Banihal valleys in Jammu & Kashmir. This rare honey is unpasteurized, cold-filtered, and raw, keeping all pollen and natural enzymes intact. Famous for its light gold color, creamy texture, and distinct medicinal, throat-soothing benefits in traditional Himalayan medicine, this 250g jar is a rare find.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Ramban Sulai Honey (GI-Tagged) — 250g.",
-    "price": 400,
+    "price": 600,
     "mrp": 600,
     "faqs": [
       {
@@ -3868,19 +3868,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "ramban-sulai-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "ramban-sulai-honey",
-        "price": 700,
+        "price": 999,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "ramban-sulai-honey-1kg",
-        "price": 1300,
+        "price": 1999,
         "mrp": 1900
       }
     ]
@@ -3905,7 +3905,7 @@ export const products = [
     ],
     "description": "Officially GI-Tagged Ramban Sulai Honey in a 500g jar. Harvested by honeybees foraging exclusively in the wild Sulai (Plectranthus rugosus) shrub forests of the Ramban and Banihal valleys in Jammu & Kashmir. This rare honey is unpasteurized, cold-filtered, and raw, keeping all pollen and natural enzymes intact. Famous for its light gold color, creamy texture, and distinct medicinal, throat-soothing benefits in traditional Himalayan medicine, this 500g jar is a rare find.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Ramban Sulai Honey (GI-Tagged) — 500g.",
-    "price": 700,
+    "price": 999,
     "mrp": 1000,
     "faqs": [
       {
@@ -3988,19 +3988,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "ramban-sulai-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "ramban-sulai-honey",
-        "price": 700,
+        "price": 999,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "ramban-sulai-honey-1kg",
-        "price": 1300,
+        "price": 1999,
         "mrp": 1900
       }
     ]
@@ -4025,7 +4025,7 @@ export const products = [
     ],
     "description": "Officially GI-Tagged Ramban Sulai Honey in a 1kg jar. Harvested by honeybees foraging exclusively in the wild Sulai (Plectranthus rugosus) shrub forests of the Ramban and Banihal valleys in Jammu & Kashmir. This rare honey is unpasteurized, cold-filtered, and raw, keeping all pollen and natural enzymes intact. Famous for its light gold color, creamy texture, and distinct medicinal, throat-soothing benefits in traditional Himalayan medicine, this 1kg jar is a rare find.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Ramban Sulai Honey (GI-Tagged) — 1kg.",
-    "price": 1300,
+    "price": 1999,
     "mrp": 1900,
     "faqs": [
       {
@@ -4108,19 +4108,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "ramban-sulai-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "ramban-sulai-honey",
-        "price": 700,
+        "price": 999,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "ramban-sulai-honey-1kg",
-        "price": 1300,
+        "price": 1999,
         "mrp": 1900
       }
     ]
@@ -4145,7 +4145,7 @@ export const products = [
     ],
     "description": "Raw, multi-floral Kashmir Wildflower Honey in a 250g glass jar. Harvested from beehives located in high-altitude alpine meadows and valley forests of Kashmir during the peak summer blooms. This honey is cold-extracted and unpasteurized, retaining all naturally occurring pollen and minerals. The 250g pack provides a light, complex sweet syrup suitable as a healthy sweetener for teas, breakfast waffles, and daily health drinks.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Kashmir Wildflower Honey — Alpine (250g).",
-    "price": 400,
+    "price": 600,
     "mrp": 600,
     "faqs": [
       {
@@ -4228,19 +4228,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "kashmiri-wildflower-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "kashmiri-wildflower-honey",
-        "price": 700,
+        "price": 1000,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "kashmiri-wildflower-honey-1kg",
-        "price": 1300,
+        "price": 1900,
         "mrp": 1900
       }
     ]
@@ -4265,7 +4265,7 @@ export const products = [
     ],
     "description": "Raw, multi-floral Kashmir Wildflower Honey in a 500g glass jar. Harvested from beehives located in high-altitude alpine meadows and valley forests of Kashmir during the peak summer blooms. This honey is cold-extracted and unpasteurized, retaining all naturally occurring pollen and minerals. The 500g pack provides a light, complex sweet syrup suitable as a healthy sweetener for teas, breakfast waffles, and daily health drinks.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Kashmir Wildflower Honey — Alpine (500g).",
-    "price": 700,
+    "price": 1000,
     "mrp": 1000,
     "faqs": [
       {
@@ -4348,19 +4348,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "kashmiri-wildflower-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "kashmiri-wildflower-honey",
-        "price": 700,
+        "price": 1000,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "kashmiri-wildflower-honey-1kg",
-        "price": 1300,
+        "price": 1900,
         "mrp": 1900
       }
     ]
@@ -4385,7 +4385,7 @@ export const products = [
     ],
     "description": "Raw, multi-floral Kashmir Wildflower Honey in a 1kg glass jar. Harvested from beehives located in high-altitude alpine meadows and valley forests of Kashmir during the peak summer blooms. This honey is cold-extracted and unpasteurized, retaining all naturally occurring pollen and minerals. The 1kg pack provides a light, complex sweet syrup suitable as a healthy sweetener for teas, breakfast waffles, and daily health drinks.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Kashmir Wildflower Honey — Alpine (1kg).",
-    "price": 1300,
+    "price": 1900,
     "mrp": 1900,
     "faqs": [
       {
@@ -4468,19 +4468,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "kashmiri-wildflower-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "kashmiri-wildflower-honey",
-        "price": 700,
+        "price": 1000,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "kashmiri-wildflower-honey-1kg",
-        "price": 1300,
+        "price": 1900,
         "mrp": 1900
       }
     ]
@@ -4505,7 +4505,7 @@ export const products = [
     ],
     "description": "Premium, water-clear Kashmir Acacia Honey in a 250g glass jar. Harvested from the Robinia pseudoacacia orchards in the valley during spring. Acacia honey is widely celebrated for its very light color, slow rate of crystallization, and extremely mild, non-overpowering sweetness. Sourced directly from local beekeepers, unheated and unpasteurized.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Kashmir Acacia Honey — Pure White (250g).",
-    "price": 400,
+    "price": 600,
     "mrp": 600,
     "faqs": [
       {
@@ -4588,19 +4588,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "kashmiri-acacia-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "kashmiri-acacia-honey-500g",
-        "price": 700,
+        "price": 1000,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "kashmiri-acacia-honey-1kg",
-        "price": 1300,
+        "price": 1900,
         "mrp": 1900
       }
     ]
@@ -4625,7 +4625,7 @@ export const products = [
     ],
     "description": "Premium, water-clear Kashmir Acacia Honey in a 500g glass jar. Harvested from the Robinia pseudoacacia orchards in the valley during spring. Acacia honey is widely celebrated for its very light color, slow rate of crystallization, and extremely mild, non-overpowering sweetness. Sourced directly from local beekeepers, unheated and unpasteurized.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Kashmir Acacia Honey — Pure White (500g).",
-    "price": 700,
+    "price": 1000,
     "mrp": 1000,
     "faqs": [
       {
@@ -4708,19 +4708,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "kashmiri-acacia-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "kashmiri-acacia-honey-500g",
-        "price": 700,
+        "price": 1000,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "kashmiri-acacia-honey-1kg",
-        "price": 1300,
+        "price": 1900,
         "mrp": 1900
       }
     ]
@@ -4745,7 +4745,7 @@ export const products = [
     ],
     "description": "Premium, water-clear Kashmir Acacia Honey in a 1kg glass jar. Harvested from the Robinia pseudoacacia orchards in the valley during spring. Acacia honey is widely celebrated for its very light color, slow rate of crystallization, and extremely mild, non-overpowering sweetness. Sourced directly from local beekeepers, unheated and unpasteurized.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Kashmir Acacia Honey — Pure White (1kg).",
-    "price": 1300,
+    "price": 1900,
     "mrp": 1900,
     "faqs": [
       {
@@ -4828,19 +4828,19 @@ export const products = [
       {
         "size": "250g",
         "slug": "kashmiri-acacia-honey-250g",
-        "price": 400,
+        "price": 600,
         "mrp": 600
       },
       {
         "size": "500g",
         "slug": "kashmiri-acacia-honey-500g",
-        "price": 700,
+        "price": 1000,
         "mrp": 1000
       },
       {
         "size": "1kg",
         "slug": "kashmiri-acacia-honey-1kg",
-        "price": 1300,
+        "price": 1900,
         "mrp": 1900
       }
     ]
@@ -5775,7 +5775,7 @@ export const products = [
   },
   {
     "slug": "kashmiri-dry-fruit-gift-box",
-    "isDefault": false,
+    "isDefault": true,
     "name": "Kashmir Dry Fruit Gift Box (Classic)",
     "subtitle": "Premium Curated Kashmir Hampers",
     "tagline": "Mamra Almonds · Walnuts · Saffron · Gift Wrapping",
@@ -5793,7 +5793,7 @@ export const products = [
     ],
     "description": "Our Kashmir Dry Fruit Gift Box brings together the iconic harvest of the valley: 250g high-oil Mamra almonds, 250g soft-shell walnut halves, and 1g of GI-Tagged Mongra saffron in an elegant packaging. Safely packaged in a presentation gift box, it is ideal for family, corporate, and wedding gifts.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order the Kashmir Dry Fruit Gift Box.",
-    "price": 1499,
+    "price": 4099,
     "mrp": 2099,
     "faqs": [
       {
@@ -5856,7 +5856,7 @@ export const products = [
       {
         "size": "Classic",
         "slug": "kashmiri-dry-fruit-gift-box",
-        "price": 1499,
+        "price": 4099,
         "mrp": 2099
       }
     ]

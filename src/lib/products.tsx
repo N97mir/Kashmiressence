@@ -5775,7 +5775,7 @@ export const products = [
   },
   {
     "slug": "kashmiri-dry-fruit-gift-box",
-    "isDefault": true,
+    "isDefault": false,
     "name": "Kashmir Dry Fruit Gift Box (Classic)",
     "subtitle": "Premium Curated Kashmir Hampers",
     "tagline": "Mamra Almonds · Walnuts · Saffron · Gift Wrapping",

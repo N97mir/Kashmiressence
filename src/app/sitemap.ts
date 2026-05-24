@@ -31,7 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // ── Category pages
   const categoryPages: MetadataRoute.Sitemap = [
-    "saffron","shilajit","almonds","walnuts","honey","spices","gift-boxes"
+    "saffron","walnuts","honey","spices","gift-boxes"
   ].map((slug) => ({
     url: `${BASE}/categories/${slug}`,
     lastModified: now,

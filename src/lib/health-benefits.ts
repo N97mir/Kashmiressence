@@ -85,7 +85,7 @@ export const HEALTH_BENEFITS: HealthBenefit[] = [
   },
   {
     slug: "pure-shilajit-for-stamina-and-energy",
-    productSlug: "pure-shilajit-resin",
+    productSlug: "himalayan-shilajit-resin",
     categorySlug: "shilajit",
     condition: "Stamina & Energy",
     title: "Pure Himalayan Shilajit for Stamina, Energy & Athletic Performance",
@@ -150,7 +150,7 @@ export const HEALTH_BENEFITS: HealthBenefit[] = [
   },
   {
     slug: "mamra-almonds-for-brain-development-in-kids",
-    productSlug: "kashmiri-mamra-almonds",
+    productSlug: "mamra-almonds-premium",
     categorySlug: "almonds",
     condition: "Brain Development",
     title: "Kashmiri Mamra Almonds for Children's Brain Development & Memory",
@@ -316,7 +316,7 @@ export const HEALTH_BENEFITS: HealthBenefit[] = [
   },
   {
     slug: "pure-shilajit-for-testosterone",
-    productSlug: "pure-shilajit-resin",
+    productSlug: "himalayan-shilajit-resin",
     categorySlug: "shilajit",
     condition: "Testosterone & Men's Health",
     title: "Pure Shilajit for Testosterone: Science, Dosage & Benefits",
@@ -461,7 +461,7 @@ export const HEALTH_BENEFITS: HealthBenefit[] = [
   {
     slug: "kashmiri-kahwa-for-weight-loss",
     productSlug: "kashmiri-kahwa-blend",
-    categorySlug: "kahwa",
+    categorySlug: "spices",
     condition: "Weight Loss & Digestion",
     title: "Kashmiri Kahwa Green Tea for Weight Loss & Detox",
     metaDescription: "Boost your metabolism naturally with authentic Kashmiri Kahwa. An antioxidant-rich green tea blend infused with saffron, cardamom, and cinnamon for ultimate fat burn.",

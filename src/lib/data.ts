@@ -2,15 +2,15 @@
 // Slugs are PERMANENT. Never rename.
 
 export const kashmirProducts = [
-  { slug: "saffron",       name: "Kashmiri Saffron",    certification: "GI-Tagged · ISO 3632 Cat. I", origin: "Pampore, Kashmir",          productSlug: "kashmiri-saffron-mongra"    },
-  { slug: "mamra-almonds", name: "Mamra Almonds",        certification: "Heritage Kashmir Variety",    origin: "Karewa Highlands, Kashmir",  productSlug: "mamra-almonds-premium"      },
-  { slug: "walnuts",       name: "Kashmiri Walnuts",     certification: "Kashmir Valley Grown",        origin: "Wular Basin, Kashmir",       productSlug: "kashmiri-walnut-kernels"    },
-  { slug: "honey",         name: "Kashmir Honey",        certification: "Raw · Cold-Extracted",        origin: "Alpine Meadows, Kashmir",    productSlug: "kashmiri-wildflower-honey"  },
-  { slug: "kahwa",         name: "Kashmiri Kahwa",       certification: "Authentic Valley Blend",      origin: "Kashmir Valley",             productSlug: "kashmiri-kahwa-blend"       },
-  { slug: "chilli",        name: "Kashmiri Chilli",      certification: "Kashmir Valley Grown",        origin: "Srinagar District, Kashmir", productSlug: "kashmiri-chilli-powder"     },
-  { slug: "dry-fruits",    name: "Kashmir Dry Fruits",   certification: "Direct from Valley",          origin: "Kashmir Valley",             productSlug: "kashmiri-dry-fruit-gift-box"},
-  { slug: "saffron-gift",  name: "Kashmir Saffron Gift", certification: "GI-Tagged · Premium Gift",   origin: "Pampore, Kashmir",           productSlug: "kashmiri-saffron-gift-tin"  },
-  { slug: "shilajit",      name: "Himalayan Shilajit",   certification: "Lab Tested · Fulvic Acid Verified", origin: "High Himalayas, J&K",    productSlug: "himalayan-shilajit-resin"   },
+  { slug: "saffron",       name: "Kashmiri Saffron",    certification: "GI-Tagged · ISO 3632 Cat. I", origin: "Pampore, Kashmir",          productSlug: "kashmiri-saffron-mongra",    categorySlug: "saffron" },
+  { slug: "mamra-almonds", name: "Mamra Almonds",        certification: "Heritage Kashmir Variety",    origin: "Karewa Highlands, Kashmir",  productSlug: "mamra-almonds-premium",      categorySlug: "almonds" },
+  { slug: "walnuts",       name: "Kashmiri Walnuts",     certification: "Kashmir Valley Grown",        origin: "Wular Basin, Kashmir",       productSlug: "kashmiri-walnut-kernels",    categorySlug: "walnuts" },
+  { slug: "honey",         name: "Kashmir Honey",        certification: "Raw · Cold-Extracted",        origin: "Alpine Meadows, Kashmir",    productSlug: "kashmiri-wildflower-honey",  categorySlug: "honey" },
+  { slug: "kahwa",         name: "Kashmiri Kahwa",       certification: "Authentic Valley Blend",      origin: "Kashmir Valley",             productSlug: "kashmiri-kahwa-blend",       categorySlug: "spices" },
+  { slug: "chilli",        name: "Kashmiri Chilli",      certification: "Kashmir Valley Grown",        origin: "Srinagar District, Kashmir", productSlug: "kashmiri-chilli-powder-100g", categorySlug: "spices" },
+  { slug: "dry-fruits",    name: "Kashmir Dry Fruits",   certification: "Direct from Valley",          origin: "Kashmir Valley",             productSlug: "kashmiri-dry-fruit-gift-box", categorySlug: "gift-boxes" },
+  { slug: "saffron-gift",  name: "Kashmir Saffron Gift", certification: "GI-Tagged · Premium Gift",   origin: "Pampore, Kashmir",           productSlug: "kashmiri-saffron-gift-tin",  categorySlug: "gift-boxes" },
+  { slug: "shilajit",      name: "Himalayan Shilajit",   certification: "Lab Tested · Fulvic Acid Verified", origin: "High Himalayas, J&K",    productSlug: "himalayan-shilajit-resin",   categorySlug: "shilajit" },
 ];
 
 export type KashmirProduct = (typeof kashmirProducts)[0];

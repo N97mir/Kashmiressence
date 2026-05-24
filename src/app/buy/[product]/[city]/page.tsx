@@ -80,7 +80,7 @@ export default async function BuyPage({ params }: Props) {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Home", item: BASE },
-      { "@type": "ListItem", position: 2, name: kp.name, item: `${BASE}/categories/${product}` },
+      { "@type": "ListItem", position: 2, name: kp.name, item: `${BASE}/categories/${kp.categorySlug}` },
       { "@type": "ListItem", position: 3, name: city.name, item: `${BASE}/buy/${product}/${citySlug}` },
     ],
   };
@@ -101,7 +101,7 @@ export default async function BuyPage({ params }: Props) {
         <div className="max-w-5xl mx-auto flex flex-wrap items-center gap-2 text-sm text-ink-400">
           <Link href="/" className="hover:text-maroon-700 transition-colors">Home</Link>
           <span>/</span>
-          <Link href={`/categories/${product}`} className="hover:text-maroon-700 transition-colors">{kp.name}</Link>
+          <Link href={`/categories/${kp.categorySlug}`} className="hover:text-maroon-700 transition-colors">{kp.name}</Link>
           <span>/</span>
           <span className="text-maroon-800 font-semibold">{city.name}</span>
         </div>

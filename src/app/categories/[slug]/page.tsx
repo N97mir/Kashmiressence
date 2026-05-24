@@ -125,10 +125,16 @@ export default async function CategoryPage({ params }: Props) {
                       <span className="text-sm text-ink-400 line-through">₹{p.mrp}</span>
                       <span className="text-xs font-bold text-valley-700 bg-valley-50 px-2 py-0.5 rounded-full">{discount}% OFF</span>
                     </div>
-                    <a href={`https://wa.me/917019838992?text=${encodeURIComponent(`${p.whatsappMsg} at ₹${p.price}.`)}`} target="_blank" rel="noreferrer"
-                      className="bg-maroon-800 hover:bg-maroon-700 text-white font-black py-3 rounded-2xl text-center text-sm transition-all shadow-lg shadow-maroon-900/20">
-                      Order on WhatsApp
-                    </a>
+                    <div className="grid grid-cols-2 gap-2">
+                      <Link href={`/products/${p.slug}`}
+                        className="border border-maroon-200 hover:border-maroon-300 bg-ivory-50 text-maroon-900 text-xs font-black py-3 rounded-2xl text-center transition-all flex items-center justify-center">
+                        View Details
+                      </Link>
+                      <a href={`https://wa.me/917019838992?text=${encodeURIComponent(`${p.whatsappMsg} at ₹${p.price}.`)}`} target="_blank" rel="noreferrer"
+                        className="bg-maroon-800 hover:bg-maroon-700 text-white font-black py-3 rounded-2xl text-center text-xs transition-all shadow-lg shadow-maroon-900/20 flex items-center justify-center">
+                        Order Now
+                      </a>
+                    </div>
                   </div>
                 </div>
               );

@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: benefit.title,
     description: benefit.metaDescription,
     alternates: {
-      canonical: `https://kashmiressence.com/benefits/${benefit.slug}`,
+      canonical: `https://www.kashmiressence.com/benefits/${benefit.slug}`,
     },
     openGraph: {
       title: benefit.title,

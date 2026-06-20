@@ -3785,8 +3785,8 @@ export const products = [
     ],
     "description": "Officially GI-Tagged Ramban Sulai Honey in a 250g jar. Harvested by honeybees foraging exclusively in the wild Sulai (Plectranthus rugosus) shrub forests of the Ramban and Banihal valleys in Jammu & Kashmir. This rare honey is unpasteurized, cold-filtered, and raw, keeping all pollen and natural enzymes intact. Famous for its light gold color, creamy texture, and distinct medicinal, throat-soothing benefits in traditional Himalayan medicine, this 250g jar is a rare find.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Ramban Sulai Honey (GI-Tagged) — 250g.",
-    "price": 600,
-    "mrp": 600,
+    "price": 799,
+    "mrp": 799,
     "faqs": [
       {
         "q": "Why does my raw honey crystallize, and does it mean it has gone bad or is fake?",
@@ -3868,20 +3868,20 @@ export const products = [
       {
         "size": "250g",
         "slug": "ramban-sulai-honey-250g",
-        "price": 600,
-        "mrp": 600
+        "price": 799,
+        "mrp": 799
       },
       {
         "size": "500g",
         "slug": "ramban-sulai-honey",
-        "price": 999,
-        "mrp": 1000
+        "price": 1499,
+        "mrp": 1499
       },
       {
         "size": "1kg",
         "slug": "ramban-sulai-honey-1kg",
-        "price": 1999,
-        "mrp": 1900
+        "price": 2699,
+        "mrp": 2699
       }
     ]
   },
@@ -3905,8 +3905,8 @@ export const products = [
     ],
     "description": "Officially GI-Tagged Ramban Sulai Honey in a 500g jar. Harvested by honeybees foraging exclusively in the wild Sulai (Plectranthus rugosus) shrub forests of the Ramban and Banihal valleys in Jammu & Kashmir. This rare honey is unpasteurized, cold-filtered, and raw, keeping all pollen and natural enzymes intact. Famous for its light gold color, creamy texture, and distinct medicinal, throat-soothing benefits in traditional Himalayan medicine, this 500g jar is a rare find.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Ramban Sulai Honey (GI-Tagged) — 500g.",
-    "price": 999,
-    "mrp": 1000,
+    "price": 1499,
+    "mrp": 1499,
     "faqs": [
       {
         "q": "Why does my raw honey crystallize, and does it mean it has gone bad or is fake?",
@@ -3988,20 +3988,20 @@ export const products = [
       {
         "size": "250g",
         "slug": "ramban-sulai-honey-250g",
-        "price": 600,
-        "mrp": 600
+        "price": 799,
+        "mrp": 799
       },
       {
         "size": "500g",
         "slug": "ramban-sulai-honey",
-        "price": 999,
-        "mrp": 1000
+        "price": 1499,
+        "mrp": 1499
       },
       {
         "size": "1kg",
         "slug": "ramban-sulai-honey-1kg",
-        "price": 1999,
-        "mrp": 1900
+        "price": 2699,
+        "mrp": 2699
       }
     ]
   },
@@ -4025,8 +4025,8 @@ export const products = [
     ],
     "description": "Officially GI-Tagged Ramban Sulai Honey in a 1kg jar. Harvested by honeybees foraging exclusively in the wild Sulai (Plectranthus rugosus) shrub forests of the Ramban and Banihal valleys in Jammu & Kashmir. This rare honey is unpasteurized, cold-filtered, and raw, keeping all pollen and natural enzymes intact. Famous for its light gold color, creamy texture, and distinct medicinal, throat-soothing benefits in traditional Himalayan medicine, this 1kg jar is a rare find.",
     "whatsappMsg": "Hi Kashmir Essence, I want to order Ramban Sulai Honey (GI-Tagged) — 1kg.",
-    "price": 1999,
-    "mrp": 1900,
+    "price": 2699,
+    "mrp": 2699,
     "faqs": [
       {
         "q": "Why does my raw honey crystallize, and does it mean it has gone bad or is fake?",
@@ -4108,20 +4108,20 @@ export const products = [
       {
         "size": "250g",
         "slug": "ramban-sulai-honey-250g",
-        "price": 600,
-        "mrp": 600
+        "price": 799,
+        "mrp": 799
       },
       {
         "size": "500g",
         "slug": "ramban-sulai-honey",
-        "price": 999,
-        "mrp": 1000
+        "price": 1499,
+        "mrp": 1499
       },
       {
         "size": "1kg",
         "slug": "ramban-sulai-honey-1kg",
-        "price": 1999,
-        "mrp": 1900
+        "price": 2699,
+        "mrp": 2699
       }
     ]
   },
